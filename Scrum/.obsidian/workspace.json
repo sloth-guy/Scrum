@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC - Scrum.md",
+                "file": "Scrum theory.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -43,7 +43,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MOC - Scrum.md",
+                "file": "Scrum theory.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC - Scrum.md"
+                "file": "Scrum theory.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC - Scrum.md",
+                "file": "Scrum theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOC - Scrum.md",
+                "file": "Scrum theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,8 @@
   },
   "active": "42a5397b3eaa7df1",
   "lastOpenFiles": [
-    "MOC - Scrum.md",
+    "MOC - Scrum definition.md",
+    "Scrum theory.md",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 5.1/Fehler.md.2023-12-07_05.18.15.foldersync.old",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.2/Download und Installation von Python.md.2023-12-06_23.18.02.foldersync.old",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.2/Anaconda.md.2023-12-06_23.17.59.foldersync.old",
@@ -269,7 +270,6 @@
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.1/import.md",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.2",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.1/Module.md",
-    "Notizen/Einführung in die Programmierung mit Python/Kapitel 5.3/Logging.md",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.1",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 5.3",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 5.2",
