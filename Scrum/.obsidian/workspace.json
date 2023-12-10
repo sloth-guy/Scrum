@@ -14,7 +14,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Artifacts.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -56,9 +55,17 @@
               }
             },
             "group": "ec8145cc2a6ad2bf"
+          },
+          {
+            "id": "d1919d6cbc4030ed",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "9bf2f1dda66bf48b",
@@ -153,9 +160,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Artifacts.md"
-              }
+              "state": {}
             }
           },
           {
@@ -202,7 +207,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artifacts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +223,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artifacts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,14 +256,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "845338f9c4d3cf29",
+  "active": "d1919d6cbc4030ed",
   "lastOpenFiles": [
-    "Scrum pillars.md",
-    "Artifacts.md",
-    "MOC - Scrum definition.md",
-    "Scrum theory.md",
     "events.md",
+    "lean thinking.md",
+    "Artifacts.md",
+    "Scrum pillars.md",
+    "Scrum theory.md",
     "empiricism.md",
+    "MOC - Scrum definition.md",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 5.1/Fehler.md.2023-12-07_05.18.15.foldersync.old",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.2/Download und Installation von Python.md.2023-12-06_23.18.02.foldersync.old",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.2/Anaconda.md.2023-12-06_23.17.59.foldersync.old",
@@ -295,7 +299,6 @@
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 4.2/Gültigkeit.md",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 2.1/Variablen.md",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 4.1/Funktionen.md",
-    "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.2/Namensraum.md",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.3",
     "Untitled.canvas",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.2",

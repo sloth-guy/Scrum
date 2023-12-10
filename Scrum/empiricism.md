@@ -1,0 +1,1 @@
+Empiricism asserts that knowledge comes from experience and making decisions based on what is observed.

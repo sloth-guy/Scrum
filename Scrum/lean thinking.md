@@ -1,0 +1,1 @@
+Lean thinking reduces waste and focuses on the essentials.
