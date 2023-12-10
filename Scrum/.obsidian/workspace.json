@@ -14,7 +14,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Scrum pillars.md",
+                "file": "Artifacts.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scrum pillars.md",
+                "file": "Artifacts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Scrum pillars.md",
+                "file": "Artifacts.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scrum pillars.md"
+                "file": "Artifacts.md"
               }
             }
           },
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scrum pillars.md",
+                "file": "Artifacts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scrum pillars.md",
+                "file": "Artifacts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,9 +255,10 @@
   },
   "active": "845338f9c4d3cf29",
   "lastOpenFiles": [
+    "Scrum pillars.md",
+    "Artifacts.md",
     "MOC - Scrum definition.md",
     "Scrum theory.md",
-    "Scrum pillars.md",
     "events.md",
     "empiricism.md",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 5.1/Fehler.md.2023-12-07_05.18.15.foldersync.old",
@@ -295,7 +296,6 @@
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 2.1/Variablen.md",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 4.1/Funktionen.md",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.2/Namensraum.md",
-    "Notizen/Einführung in die Programmierung mit Python/Kapitel 3.3/Schleifen.md",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.3",
     "Untitled.canvas",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.2",
