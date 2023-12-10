@@ -25,13 +25,8 @@
             "id": "de3c50192beaedc4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MOC - Scrum Team.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -48,7 +43,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MOC - Scrum Team.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -129,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MOC - Scrum Team.md"
-              }
+              "state": {}
             }
           },
           {
@@ -140,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "data",
+                "query": "tea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,7 +170,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC - Scrum Team.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +186,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOC - Scrum Team.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,12 +221,12 @@
   },
   "active": "de3c50192beaedc4",
   "lastOpenFiles": [
-    "Scrum theory.md",
+    "MOC - Artifacts.md",
     "MOC - Scrum Team.md",
+    "Scrum theory.md",
     "sprint.md",
     "lean thinking.md",
     "empiricism.md",
-    "Artifacts.md",
     "pillars.md",
     "Scrum definition.md",
     "MOC - events.md",
