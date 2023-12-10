@@ -14,7 +14,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pillars.md",
+                "file": "MOC - Scrum definition.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pillars.md",
+                "file": "MOC - Scrum definition.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pillars.md"
+                "file": "MOC - Scrum definition.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pillars.md",
+                "file": "MOC - Scrum definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pillars.md",
+                "file": "MOC - Scrum definition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,8 +268,8 @@
   },
   "active": "d1919d6cbc4030ed",
   "lastOpenFiles": [
-    "Scrum theory.md",
     "pillars.md",
+    "Scrum theory.md",
     "Artifacts.md",
     "MOC - Scrum definition.md",
     "events.md",
