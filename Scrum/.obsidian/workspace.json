@@ -14,6 +14,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "pillars.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -60,8 +61,13 @@
             "id": "d1919d6cbc4030ed",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "pillars.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ],
@@ -160,7 +166,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "pillars.md"
+              }
             }
           },
           {
@@ -207,6 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pillars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,6 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "pillars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,13 +268,13 @@
   },
   "active": "d1919d6cbc4030ed",
   "lastOpenFiles": [
+    "Scrum theory.md",
+    "pillars.md",
+    "Artifacts.md",
+    "MOC - Scrum definition.md",
     "events.md",
     "lean thinking.md",
-    "Artifacts.md",
-    "Scrum pillars.md",
-    "Scrum theory.md",
     "empiricism.md",
-    "MOC - Scrum definition.md",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 5.1/Fehler.md.2023-12-07_05.18.15.foldersync.old",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.2/Download und Installation von Python.md.2023-12-06_23.18.02.foldersync.old",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.2/Anaconda.md.2023-12-06_23.17.59.foldersync.old",
