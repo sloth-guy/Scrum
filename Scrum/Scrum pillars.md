@@ -1,0 +1,4 @@
+# transparency
+
+inspection
+adaptation

@@ -6,6 +6,7 @@
       {
         "id": "3243fcb5439766ca",
         "type": "tabs",
+        "dimension": 71.80801491146319,
         "children": [
           {
             "id": "f7f4a4b91308dbef",
@@ -13,7 +14,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Scrum theory.md",
+                "file": "Scrum pillars.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,15 +49,59 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scrum theory.md",
+                "file": "Scrum pillars.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
-            }
+            },
+            "group": "ec8145cc2a6ad2bf"
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "9bf2f1dda66bf48b",
+        "type": "tabs",
+        "dimension": 28.191985088536814,
+        "children": [
+          {
+            "id": "0ae388e211807f0f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Scrum pillars.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "ec8145cc2a6ad2bf"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scrum theory.md"
+                "file": "Scrum pillars.md"
               }
             }
           },
@@ -157,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scrum theory.md",
+                "file": "Scrum pillars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scrum theory.md",
+                "file": "Scrum pillars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,8 +256,10 @@
   "active": "845338f9c4d3cf29",
   "lastOpenFiles": [
     "MOC - Scrum definition.md",
-    "empiricism.md",
     "Scrum theory.md",
+    "Scrum pillars.md",
+    "events.md",
+    "empiricism.md",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 5.1/Fehler.md.2023-12-07_05.18.15.foldersync.old",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.2/Download und Installation von Python.md.2023-12-06_23.18.02.foldersync.old",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.2/Anaconda.md.2023-12-06_23.17.59.foldersync.old",
@@ -249,10 +296,8 @@
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 4.1/Funktionen.md",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.2/Namensraum.md",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 3.3/Schleifen.md",
-    "Notizen/Einführung in die Programmierung mit Python/Kapitel 3.3/break-Anweisung.md",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.3",
     "Untitled.canvas",
-    "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.1/import.md",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.2",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.1",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 5.3",
