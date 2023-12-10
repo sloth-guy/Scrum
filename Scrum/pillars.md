@@ -3,7 +3,7 @@ The emergent Process and work must be visible to those performing the work as we
 Transparency enables [[#inspection]]. [#Inspection] without transparency is misleading and wasteful.
 
 # inspection
-The [[Artifacts]] and the progress toward agreed goals must be inspected frequently and diligently to detedt potentially undesirable variances or problems. To help with inspection, Scrum provides cadence in the form of its five [[events]].
+The [[Artifacts]] and the progress toward agreed goals must be inspected frequently and diligently to detedt potentially undesirable variances or problems. To help with inspection, Scrum provides cadence in the form of its five [[MOC - events]].
 Inspection enables [[#adaptation]]. Inspection without adaptation is pointless.
 
 # adaptation
