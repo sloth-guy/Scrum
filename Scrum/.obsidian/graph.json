@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "-path: \"Notizen/Einführung in die Programmierung mit Python/Anhänge\"",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Kapitel 1\" ",
+      "color": {
+        "a": 1,
+        "rgb": 14701180
+      }
+    },
+    {
+      "query": "path:\"Kapitel 2\" ",
+      "color": {
+        "a": 1,
+        "rgb": 12669664
+      }
+    },
+    {
+      "query": "path:\"Kapitel 3\" ",
+      "color": {
+        "a": 1,
+        "rgb": 5401056
+      }
+    },
+    {
+      "query": "path:\"Kapitel 4\" ",
+      "color": {
+        "a": 1,
+        "rgb": 5431008
+      }
+    },
+    {
+      "query": "path:\"Kapitel 5\" ",
+      "color": {
+        "a": 1,
+        "rgb": 5431432
+      }
+    },
+    {
+      "query": "path:\"Kapitel 6\" ",
+      "color": {
+        "a": 1,
+        "rgb": 14606418
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 2,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.6316046762907517,
+  "close": true
+}

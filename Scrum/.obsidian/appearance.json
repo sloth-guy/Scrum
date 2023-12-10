@@ -1,0 +1,10 @@
+{
+  "accentColor": "#4dd0ea",
+  "baseFontSize": 16,
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
+  "nativeMenus": false,
+  "showViewHeader": true
+}
