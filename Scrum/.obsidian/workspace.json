@@ -25,8 +25,13 @@
             "id": "de3c50192beaedc4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MOC - Artifacts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ],
@@ -35,7 +40,7 @@
       {
         "id": "9bf2f1dda66bf48b",
         "type": "tabs",
-        "dimension": 28.191985088536814,
+        "dimension": 28.19198508853681,
         "children": [
           {
             "id": "0ae388e211807f0f",
@@ -43,6 +48,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "MOC - Artifacts.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -123,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MOC - Artifacts.md"
+              }
             }
           },
           {
@@ -170,6 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MOC - Artifacts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,6 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MOC - Artifacts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,6 +231,7 @@
   },
   "active": "de3c50192beaedc4",
   "lastOpenFiles": [
+    "MOC-roles.md",
     "MOC - Artifacts.md",
     "MOC - Scrum Team.md",
     "Scrum theory.md",
@@ -261,7 +272,6 @@
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.3/help-Funktion.md",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.3/Kommentar.md",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 4.2/Scopes.md",
-    "Notizen/Einführung in die Programmierung mit Python/Kapitel 4.2/Gültigkeit.md",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.3",
     "Untitled.canvas",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.2",
