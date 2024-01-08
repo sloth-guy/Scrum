@@ -7,9 +7,13 @@ He is accountable for the effectiveness of the [[MOC - scrum team]]. They do thi
 - causing the removal of impediments to the teams progress
 - ensuring that all [[MOC - events]] take place and are positive, productive and kept within the timebox.
 
-## serving the [[product owner]]
+### serving the [[product owner]]
 - help find techniques for effective [[product goal]] definition and [[product backlog]] management
-- help
+- helping the [[MOC - scrum team]] unterstand the need for clear and concise [[product backlog]] items
+- helping establish empirical [[product planning]] for a complex environment
+- facilitating  [[stakeholders]] collaborations as requested or needed
 
-
-## serving the organization
+### serving the organization
+- leading, training and coaching the organization in its scrum adoption
+- planning and advising scrum implementations within the organization
+- helping employees and stakeholders unde
