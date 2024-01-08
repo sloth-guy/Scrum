@@ -1,0 +1,1 @@
+The members of a [[MOC - scrum team]] internally decide who does what, when and how.

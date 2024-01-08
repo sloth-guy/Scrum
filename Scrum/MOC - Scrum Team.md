@@ -5,7 +5,7 @@ A scrum team is a cohesive unit of professionals focused on the [[product goal]]
 - multiple [[developers]]
 
 ## hierarchy
-There are no sub-teams of hierarchies. scrum teams are cross-funktional, meaning, the members have all the skills necessary to create value each [[MOC - sprint]]. They are also self-managing, meaning they internally decide who does what, when and how.
+There are no sub-teams of hierarchies. scrum teams are [[cross-funktional]]. They are also [[self-managing]].
 
 ## size
 A scrum team is small enough to remain nimble and large enough to complete significant work within a [[MOC - sprint]], typically 10 of fewer people. If a scrum team becomes to large they should consider reorganizing into multiple cohesive Scrum Teams, each focused on the same [[MOC - product]]. Therefore, they should share the same [[product goal]], [[product backlog]] and [[product owner]].

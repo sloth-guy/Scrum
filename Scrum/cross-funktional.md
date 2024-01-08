@@ -1,0 +1,1 @@
+The members of a [[MOC - scrum team]] have all the skills necessary to create value each [[MOC - sprint]].
