@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC - Artifacts.md",
+                "file": "MOC - events.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC - Artifacts.md"
+                "file": "MOC - events.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MOC - Artifacts.md",
+                "file": "MOC - events.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,7 +143,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.7132754626224422,
                   "close": false
                 }
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC - Artifacts.md",
+                "file": "MOC - events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOC - Artifacts.md",
+                "file": "MOC - events.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,18 +221,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de3c50192beaedc4",
+  "active": "0ae388e211807f0f",
   "lastOpenFiles": [
-    "MOC-roles.md",
-    "MOC - Artifacts.md",
+    "pillars.md",
+    "Scrum definition.md",
     "MOC - Scrum Team.md",
+    "MOC - events.md",
+    "MOC - Artifacts.md",
+    "MOC-roles.md",
     "Scrum theory.md",
     "sprint.md",
     "lean thinking.md",
     "empiricism.md",
-    "pillars.md",
-    "Scrum definition.md",
-    "MOC - events.md",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 5.1/Fehler.md.2023-12-07_05.18.15.foldersync.old",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.2/Download und Installation von Python.md.2023-12-06_23.18.02.foldersync.old",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.2/Anaconda.md.2023-12-06_23.17.59.foldersync.old",
