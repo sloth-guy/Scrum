@@ -1,5 +1,8 @@
-for a product owner to be sucessfull, the entire organization must repect their decisions. These decisions are visible in the content and ordering of the [[product backlog]] and throuigh the inspectable [[]]
-## reasponibilities
+The Product Owner is one person, not a committee. The Product Owner may represent the needs of many [[stakeholders]] in the [[product backlog]]. Those wanting to change the [[product backlog]] can do so by trying to convince the Product Owner
+
+For a product owner to be successful, the entire organization must respect their decisions. These decisions are visible in the content and ordering of the [[product backlog]] and through the inspectable [[Increment]] at the [[sprint review]].
+
+## responsibilities
 The product owner is accountable for maximizing the value of the product, resulting from the work of the Scrum Team.
 The product owner is also accountable for effective [[product backlog]] management which includes:
 - Developing and explicitly communicating the [[product goal]]

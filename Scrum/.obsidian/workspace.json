@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "product owner.md",
+                "file": "scrum master.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -73,7 +73,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "product owner.md"
+                "file": "scrum master.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "product owner.md",
+                "file": "scrum master.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "product owner.md",
+                "file": "scrum master.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "product owner.md",
+                "file": "scrum master.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,13 +210,14 @@
   "active": "de3c50192beaedc4",
   "lastOpenFiles": [
     "MOC - scrum team.md",
+    "scrum master.md",
+    "product owner.md",
     "developers.md",
     "scrum theory.md",
     "MOC - sprint.md",
     "Increment.md",
     "MOC - product.md",
     "product goal.md",
-    "product owner.md",
     "MOC - artifacts.md",
     "product backlog.md",
     "scrum definition.md",
@@ -241,7 +242,6 @@
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.4/SciPy.md",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.4/Pandas.md",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.2/Anaconda.md",
-    "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.4/NumPy.md",
     "Notizen/Einführung in die Programmierung mit Python/Anhänge/Beispiel mpg-Funktion.png",
     "Notizen/Einführung in die Programmierung mit Python/Anhänge/Beispiel Pandas-DataFrame.png",
     "Notizen/Einführung in die Programmierung mit Python/Anhänge/Beispiel Zufallsdatensatz SciPy.png",

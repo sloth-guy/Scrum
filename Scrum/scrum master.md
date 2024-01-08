@@ -1,0 +1,2 @@
+The scrum master is the person who establishes scrum as defined in the scrum guide. They so this by helping everyone understand scrum theory and practice.
+He is accountable for the [[MOC - scrum team]]
