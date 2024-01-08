@@ -1,11 +1,13 @@
 ## members
 
-a Scrum team consist of:
+a Scrum team is a cohesive unit of professionals focused on the [[product goal]] and consist of:
 - one [[product owner]]
 - one [[scrum master]]
 - multiple [[developers]]
 
-there are no sub-teams of hierarchies. 
+there are no sub-teams of hierarchies. scrum teams are cross-funktional, meaning, the members have all the skills necessary to create value each [[sprint]]. They are also self-managing, meaning they internally decide who does what, when and how.
+
+
 
 ## values
 A Scum Team should be proficient in living five values:
@@ -15,5 +17,5 @@ A Scum Team should be proficient in living five values:
 	- **respect** for each other to be capable, independent people
 	- **courage** to work tough roblems
 
-The team members learn and explore these values as they work with the scrum [[MOC - events]] and [[MOC - Artifacts]]. When a Scrum team embody these Values the [[pillars]] come to live building trust.
+The team members learn and explore these values as they work with the scrum [[MOC - events]] and [[MOC - artifacts]]. When a Scrum team embody these Values the [[pillars]] come to live building trust.
 

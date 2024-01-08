@@ -7,4 +7,4 @@ Scrum’s artifacts represent work or value. They are designed to maximize [[pil
 - For the Sprint Backlog it is the Sprint Goal.
 - For the Increment it is the Definition of Done.
 
-These commitments exist to reinforce [[empiricism]] and the Scrum values for the [[MOC - Scrum Team|Scrum Team]] and their stakeholders.
+These commitments exist to reinforce [[empiricism]] and the Scrum values for the [[MOC - scrum team|Scrum Team]] and their stakeholders.
