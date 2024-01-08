@@ -1,2 +1,7 @@
 ## reasponibilities
-The product Owner is accountable for maximizing the value of the product, resulting 
+The product owner is accountable for maximizing the value of the product, resulting from the work of the Scrum Team.
+The product owner is also accountable for effective [[product backlog]] management which includes:
+- Developing and explicitly communicating the [[product goal]]
+- Creating and clearly communicating [[product backlog]] items
+- Ordering [[product backlog]] items
+- Ensuring that the [[product goal]] is transparent, visible and understood
