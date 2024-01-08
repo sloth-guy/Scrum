@@ -122,7 +122,7 @@
               "state": {
                 "file": "MOC - scrum team.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -143,8 +143,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224422,
-                  "close": false
+                  "scale": 0.7132754626224425,
+                  "close": true
                 }
               }
             }
@@ -223,11 +223,15 @@
   },
   "active": "de3c50192beaedc4",
   "lastOpenFiles": [
+    "MOC - product.md",
+    "product goal.md",
+    "MOC - scrum team.md",
+    "product owner.md",
     "MOC - artifacts.md",
+    "product backlog.md",
     "scrum definition.md",
     "scrum theory.md",
     "lean thinking.md",
-    "MOC - scrum team.md",
     "pillars.md",
     "MOC - events.md",
     "MOC-roles.md",
@@ -258,12 +262,8 @@
     "Notizen/Einführung in die Programmierung mit Python/Anhänge/Beispiel Matplotlib Kurvenplot.png",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 2.2/Datentypen.md",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 2.4/Listen.md",
-    "Notizen/Einführung in die Programmierung mit Python/Kapitel 2.4/Collections.md",
     "Notizen/Einführung in die Programmierung mit Python/Anhänge/Beispiel NumPy funktionen.png",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.4",
-    "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.3/help-Funktion.md",
-    "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.3/Kommentar.md",
-    "Notizen/Einführung in die Programmierung mit Python/Kapitel 4.2/Scopes.md",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.3",
     "Untitled.canvas",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.2",
