@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scrum master.md",
-                "mode": "source",
+                "file": "MOC - events.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scrum master.md"
+                "file": "MOC - events.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "scrum master.md",
+                "file": "MOC - events.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scrum master.md",
+                "file": "MOC - events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scrum master.md",
+                "file": "MOC - events.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,9 +209,9 @@
   },
   "active": "de3c50192beaedc4",
   "lastOpenFiles": [
+    "scrum master.md",
     "MOC - product.md",
     "MOC - scrum team.md",
-    "scrum master.md",
     "developers.md",
     "cross-funktional.md",
     "self-managing.md",

@@ -16,4 +16,5 @@ He is accountable for the effectiveness of the [[MOC - scrum team]]. They do thi
 ### serving the organization
 - leading, training and coaching the organization in its scrum adoption
 - planning and advising scrum implementations within the organization
-- helping employees and stakeholders unde
+- helping employees and [[stakeholders]] understand and enact an empirical approach for complex work
+- removing barriers between [[stakeholders]] and the [[MOC - scrum team]]
