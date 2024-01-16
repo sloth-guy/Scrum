@@ -11,8 +11,13 @@
             "id": "de3c50192beaedc4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "sprint planning.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           },
           {
@@ -30,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events.canvas"
+                "file": "sprint planning.md"
               }
             }
           },
@@ -117,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Events.canvas",
+                "file": "sprint planning.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -167,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events.canvas",
+                "file": "sprint planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events.canvas",
+                "file": "sprint planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,11 +222,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df5612b1a8a53936",
+  "active": "de3c50192beaedc4",
   "lastOpenFiles": [
+    "Events.canvas",
     "sprint planning.md",
     "sprint retrospective.md",
-    "Events.canvas",
     "MOC - events.md",
     "sprint review.md",
     "daily scrum.md",
