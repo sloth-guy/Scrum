@@ -1,1 +1,1 @@
-Sprint planning initiates the Sprint by laying out the work to be performed for the sprint. This resulting plan is created by the collaborative work of the entire [[MOC - scrum team]]
+Sprint planning initiates the Sprint by laying out the work to be performed for the sprint. This resulting plan is created by the collaborative work of the entire [[MOC - scrum team]].
