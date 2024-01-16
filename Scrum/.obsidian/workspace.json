@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily scrum.md",
+                "file": "sprint planning.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -26,17 +26,16 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "sprint.canvas",
+                "file": "Events.canvas",
                 "viewState": {
-                  "x": 202.5,
-                  "y": 18,
-                  "zoom": 0
+                  "x": 146.32809836026564,
+                  "y": 57.838756658268665,
+                  "zoom": -1
                 }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sprint.canvas"
+                "file": "sprint planning.md"
               }
             }
           },
@@ -122,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sprint.canvas",
+                "file": "sprint planning.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -172,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sprint.canvas",
+                "file": "sprint planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sprint.canvas",
+                "file": "sprint planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,12 +222,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df5612b1a8a53936",
+  "active": "de3c50192beaedc4",
   "lastOpenFiles": [
-    "daily scrum.md",
+    "sprint retrospective.md",
+    "Events.canvas",
     "MOC - events.md",
+    "sprint review.md",
+    "daily scrum.md",
     "sprint planning.md",
-    "sprint.canvas",
     "MOC - scrum team.md",
     "MOC - product.md",
     "sprint.md",
@@ -253,9 +254,6 @@
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.1/Warum Python.md.2023-12-06_23.17.57.foldersync.old",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.1/Data Science.md",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.2/Bibliothek.md",
-    "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.4/Matplotlib.md",
-    "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.4/Scikit-Learn.md",
-    "Notizen/Einführung in die Programmierung mit Python/Untitled.md",
     "Notizen/Einführung in die Programmierung mit Python/Anhänge/Beispiel Clusteranalyse.png",
     "Notizen/Einführung in die Programmierung mit Python/Anhänge/Beispiel Regressionsalgorithmus.png",
     "Notizen/Einführung in die Programmierung mit Python/Anhänge/Beispiel Klassifikationsalgorithmus.png",
