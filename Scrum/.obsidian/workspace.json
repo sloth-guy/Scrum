@@ -11,13 +11,8 @@
             "id": "de3c50192beaedc4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sprint planning.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -35,7 +30,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sprint planning.md"
+                "file": "Events.canvas"
               }
             }
           },
@@ -121,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sprint planning.md",
+                "file": "Events.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -171,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sprint planning.md",
+                "file": "Events.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sprint planning.md",
+                "file": "Events.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,14 +218,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de3c50192beaedc4",
+  "active": "df5612b1a8a53936",
   "lastOpenFiles": [
+    "sprint planning.md",
     "sprint retrospective.md",
     "Events.canvas",
     "MOC - events.md",
     "sprint review.md",
     "daily scrum.md",
-    "sprint planning.md",
     "MOC - scrum team.md",
     "MOC - product.md",
     "sprint.md",
