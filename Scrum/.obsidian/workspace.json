@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sprint.md",
+                "file": "MOC - events.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -73,7 +73,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sprint.md"
+                "file": "MOC - events.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sprint.md",
+                "file": "MOC - events.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -129,7 +129,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224425,
+                  "scale": 0.5087618855792589,
                   "close": true
                 }
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sprint.md",
+                "file": "MOC - events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sprint.md",
+                "file": "MOC - events.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,8 +209,8 @@
   },
   "active": "de3c50192beaedc4",
   "lastOpenFiles": [
-    "MOC - events.md",
     "sprint.md",
+    "MOC - events.md",
     "scrum master.md",
     "MOC - product.md",
     "MOC - scrum team.md",
