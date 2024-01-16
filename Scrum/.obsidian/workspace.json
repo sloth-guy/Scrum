@@ -13,14 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC - events.md",
+                "file": "daily scrum.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
+          },
+          {
+            "id": "df5612b1a8a53936",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "sprint.canvas",
+                "viewState": {
+                  "x": 202.5,
+                  "y": 18,
+                  "zoom": 0
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC - events.md"
+                "file": "sprint.canvas"
               }
             }
           },
@@ -106,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MOC - events.md",
+                "file": "sprint.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC - events.md",
+                "file": "sprint.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOC - events.md",
+                "file": "sprint.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,13 +223,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de3c50192beaedc4",
+  "active": "df5612b1a8a53936",
   "lastOpenFiles": [
-    "sprint.md",
+    "daily scrum.md",
     "MOC - events.md",
-    "scrum master.md",
-    "MOC - product.md",
+    "sprint planning.md",
+    "sprint.canvas",
     "MOC - scrum team.md",
+    "MOC - product.md",
+    "sprint.md",
+    "scrum master.md",
     "developers.md",
     "cross-funktional.md",
     "self-managing.md",
@@ -239,9 +258,7 @@
     "Notizen/Einführung in die Programmierung mit Python/Untitled.md",
     "Notizen/Einführung in die Programmierung mit Python/Anhänge/Beispiel Clusteranalyse.png",
     "Notizen/Einführung in die Programmierung mit Python/Anhänge/Beispiel Regressionsalgorithmus.png",
-    "Notizen/Einführung in die Programmierung mit Python/Kapitel 3.1/Ausdruck.md",
     "Notizen/Einführung in die Programmierung mit Python/Anhänge/Beispiel Klassifikationsalgorithmus.png",
-    "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.4/SciPy.md",
     "Notizen/Einführung in die Programmierung mit Python/Anhänge/Beispiel mpg-Funktion.png",
     "Notizen/Einführung in die Programmierung mit Python/Anhänge/Beispiel Pandas-DataFrame.png",
     "Notizen/Einführung in die Programmierung mit Python/Anhänge/Beispiel Zufallsdatensatz SciPy.png",
@@ -251,7 +268,6 @@
     "Notizen/Einführung in die Programmierung mit Python/Anhänge/Beispiel NumPy funktionen.png",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.4",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.3",
-    "Untitled.canvas",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.2",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.1",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 5.3",
