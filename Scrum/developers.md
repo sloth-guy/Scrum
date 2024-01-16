@@ -1,4 +1,4 @@
-Developers are the people in the [[MOC - scrum team]] that are committed to creating any aspect of a usable [[Increment]] each [[MOC - sprint]].
+Developers are the people in the [[MOC - scrum team]] that are committed to creating any aspect of a usable [[Increment]] each [[sprint]].
 
 ## reasonabilities
 

@@ -8,7 +8,7 @@ A scrum team is a cohesive unit of professionals focused on the [[product goal]]
 There are no sub-teams of hierarchies. scrum teams are [[cross-funktional]]. They are also [[self-managing]].
 
 ## size
-A scrum team is small enough to remain nimble and large enough to complete significant work within a [[MOC - sprint]], typically 10 of fewer people. If a scrum team becomes to large they should consider reorganizing into multiple cohesive Scrum Teams, each focused on the same [[MOC - product]]. Therefore, they should share the same [[product goal]], [[product backlog]] and [[product owner]].
+A scrum team is small enough to remain nimble and large enough to complete significant work within a [[sprint]], typically 10 of fewer people. If a scrum team becomes to large they should consider reorganizing into multiple cohesive Scrum Teams, each focused on the same [[MOC - product]]. Therefore, they should share the same [[product goal]], [[product backlog]] and [[product owner]].
 
 ## values
 A Scum Team should be proficient in living five values:

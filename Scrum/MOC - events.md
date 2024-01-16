@@ -1,4 +1,4 @@
-[[MOC - sprint]]
+[[sprint]]
 [[sprint planning]]
 [[daily scrum]]
 [[sprint review]]

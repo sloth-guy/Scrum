@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC - events.md",
-                "mode": "preview",
+                "file": "sprint.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC - events.md"
+                "file": "sprint.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MOC - events.md",
+                "file": "sprint.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC - events.md",
+                "file": "sprint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOC - events.md",
+                "file": "sprint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,6 +209,7 @@
   },
   "active": "de3c50192beaedc4",
   "lastOpenFiles": [
+    "MOC - events.md",
     "scrum master.md",
     "MOC - product.md",
     "MOC - scrum team.md",
@@ -217,7 +218,7 @@
     "self-managing.md",
     "product owner.md",
     "scrum theory.md",
-    "MOC - sprint.md",
+    "sprint.md",
     "Increment.md",
     "product goal.md",
     "MOC - artifacts.md",
@@ -225,7 +226,6 @@
     "scrum definition.md",
     "lean thinking.md",
     "pillars.md",
-    "MOC - events.md",
     "MOC-roles.md",
     "empiricism.md",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 5.1/Fehler.md.2023-12-07_05.18.15.foldersync.old",
