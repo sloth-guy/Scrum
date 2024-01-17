@@ -24,14 +24,12 @@
             "id": "df5612b1a8a53936",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Events.canvas",
-                "viewState": {
-                  "x": 146.32809836026564,
-                  "y": 429.8387566582687,
-                  "zoom": -1
-                }
+                "file": "sprint planning.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -224,9 +222,9 @@
   },
   "active": "de3c50192beaedc4",
   "lastOpenFiles": [
+    "sprint planning.md",
     "Events.canvas",
     "daily scrum.md",
-    "sprint planning.md",
     "sprint.md",
     "MOC - artifacts.md",
     "sprint backlog.md",
