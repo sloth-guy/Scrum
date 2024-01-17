@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "goal",
+                "query": "sprint bac",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -224,8 +224,11 @@
   },
   "active": "de3c50192beaedc4",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "sprint.md",
     "sprint planning.md",
+    "MOC - artifacts.md",
+    "sprint backlog.md",
+    "Untitled.canvas",
     "Events.canvas",
     "developers.md",
     "sprint goal.md",
@@ -235,7 +238,6 @@
     "daily scrum.md",
     "MOC - scrum team.md",
     "MOC - product.md",
-    "sprint.md",
     "scrum master.md",
     "cross-funktional.md",
     "self-managing.md",
@@ -243,7 +245,6 @@
     "scrum theory.md",
     "Increment.md",
     "product goal.md",
-    "MOC - artifacts.md",
     "product backlog.md",
     "scrum definition.md",
     "lean thinking.md",
