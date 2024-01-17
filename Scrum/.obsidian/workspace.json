@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sprint goal.md",
+                "file": "sprint planning.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -35,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sprint goal.md"
+                "file": "sprint planning.md"
               }
             }
           },
@@ -122,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sprint goal.md",
+                "file": "sprint planning.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -172,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sprint goal.md",
+                "file": "sprint planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sprint goal.md",
+                "file": "sprint planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,13 +222,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df5612b1a8a53936",
+  "active": "de3c50192beaedc4",
   "lastOpenFiles": [
-    "sprint goal.md",
-    "developers.md",
-    "Events.canvas",
     "Untitled.canvas",
     "sprint planning.md",
+    "Events.canvas",
+    "developers.md",
+    "sprint goal.md",
     "sprint retrospective.md",
     "MOC - events.md",
     "sprint review.md",
@@ -256,7 +255,6 @@
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.2/Anaconda.md.2023-12-06_23.17.59.foldersync.old",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.1/Warum Python.md.2023-12-06_23.17.57.foldersync.old",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.1/Data Science.md",
-    "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.2/Bibliothek.md",
     "Notizen/Einführung in die Programmierung mit Python/Anhänge/Beispiel Clusteranalyse.png",
     "Notizen/Einführung in die Programmierung mit Python/Anhänge/Beispiel Regressionsalgorithmus.png",
     "Notizen/Einführung in die Programmierung mit Python/Anhänge/Beispiel Klassifikationsalgorithmus.png",

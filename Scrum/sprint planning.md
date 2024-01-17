@@ -13,3 +13,4 @@ The [[product owner]] proposes how the product could increase its value and util
 Through discussion with the [[product owner]], the [[developers]] select items from the [[product backlog]] to include in the current [[sprint]]. The [[MOC - scrum team]] may refine these items during the process, witch increases understanding and confidence.
 
 ### topic three: How will this chosen work get done?
+for each selected [[product backlog]] item, the [[developers]] plan the work necessary to create an [[Increment]] that meets the [[definition of done]]. This in often done by decomposing [[product backlog]] items into smaller work items of one day or less. 
