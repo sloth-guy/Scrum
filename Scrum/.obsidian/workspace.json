@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily scrum.md",
+                "file": "sprint review.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily scrum.md"
+                "file": "sprint review.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily scrum.md",
+                "file": "sprint review.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily scrum.md",
+                "file": "sprint review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily scrum.md",
+                "file": "sprint review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,17 +222,17 @@
   },
   "active": "de3c50192beaedc4",
   "lastOpenFiles": [
+    "MOC - events.md",
     "sprint planning.md",
-    "Events.canvas",
-    "daily scrum.md",
     "sprint.md",
+    "daily scrum.md",
+    "Events.canvas",
     "MOC - artifacts.md",
     "sprint backlog.md",
     "Untitled.canvas",
     "developers.md",
     "sprint goal.md",
     "sprint retrospective.md",
-    "MOC - events.md",
     "sprint review.md",
     "MOC - scrum team.md",
     "MOC - product.md",
