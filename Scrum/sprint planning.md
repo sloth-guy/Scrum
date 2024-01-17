@@ -10,6 +10,6 @@ Sprint planning initiates the Sprint by laying out the work to be performed for 
 The [[product owner]] proposes how the product could increase its value and utility in the current [[sprint]]. The whole [[MOC - scrum team]] collaborates to define a [[sprint goal]], that communicates why the [[sprint]] is valuable to [[stakeholders]].
 
 ### topic two: What can be done this sprint?
-Through 
+Through discussion with the [[product owner]], the [[developers]] select items from the [[product backlog]] to include in the current [[sprint]]. The [[MOC - scrum team]] may refine these items during the process, witch increases understanding and confidence.
 
 ### topic three: How will this chosen work get done?

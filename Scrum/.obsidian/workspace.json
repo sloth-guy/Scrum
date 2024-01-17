@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sprint planning.md",
+                "file": "sprint goal.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -35,7 +35,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sprint planning.md"
+                "file": "sprint goal.md"
               }
             }
           },
@@ -98,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tea",
+                "query": "goal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sprint planning.md",
+                "file": "sprint goal.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -151,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sprint planning.md",
+                "file": "sprint goal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sprint planning.md",
+                "file": "sprint goal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,9 +223,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de3c50192beaedc4",
+  "active": "df5612b1a8a53936",
   "lastOpenFiles": [
+    "sprint goal.md",
+    "developers.md",
     "Events.canvas",
+    "Untitled.canvas",
     "sprint planning.md",
     "sprint retrospective.md",
     "MOC - events.md",
@@ -234,7 +238,6 @@
     "MOC - product.md",
     "sprint.md",
     "scrum master.md",
-    "developers.md",
     "cross-funktional.md",
     "self-managing.md",
     "product owner.md",
