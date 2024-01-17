@@ -1,0 +1,1 @@
+the daily scrum in meant to inspect progress toward the sprint goal and adapt the [[sprint backlog]] as necessary, adjusting the upcoming planned work.

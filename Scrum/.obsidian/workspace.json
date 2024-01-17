@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sprint planning.md",
+                "file": "daily scrum.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -29,7 +29,7 @@
                 "file": "Events.canvas",
                 "viewState": {
                   "x": 146.32809836026564,
-                  "y": 57.838756658268665,
+                  "y": 429.8387566582687,
                   "zoom": -1
                 }
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sprint planning.md"
+                "file": "daily scrum.md"
               }
             }
           },
@@ -121,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sprint planning.md",
+                "file": "daily scrum.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sprint planning.md",
+                "file": "daily scrum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sprint planning.md",
+                "file": "daily scrum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,18 +224,18 @@
   },
   "active": "de3c50192beaedc4",
   "lastOpenFiles": [
-    "sprint.md",
+    "Events.canvas",
+    "daily scrum.md",
     "sprint planning.md",
+    "sprint.md",
     "MOC - artifacts.md",
     "sprint backlog.md",
     "Untitled.canvas",
-    "Events.canvas",
     "developers.md",
     "sprint goal.md",
     "sprint retrospective.md",
     "MOC - events.md",
     "sprint review.md",
-    "daily scrum.md",
     "MOC - scrum team.md",
     "MOC - product.md",
     "scrum master.md",
@@ -255,7 +255,6 @@
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.2/Download und Installation von Python.md.2023-12-06_23.18.02.foldersync.old",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.2/Anaconda.md.2023-12-06_23.17.59.foldersync.old",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.1/Warum Python.md.2023-12-06_23.17.57.foldersync.old",
-    "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.1/Data Science.md",
     "Notizen/Einführung in die Programmierung mit Python/Anhänge/Beispiel Clusteranalyse.png",
     "Notizen/Einführung in die Programmierung mit Python/Anhänge/Beispiel Regressionsalgorithmus.png",
     "Notizen/Einführung in die Programmierung mit Python/Anhänge/Beispiel Klassifikationsalgorithmus.png",

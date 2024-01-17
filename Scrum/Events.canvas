@@ -7,7 +7,7 @@
 		{"id":"c85e39acb372b607","type":"text","text":"contains","x":-15,"y":-200,"width":250,"height":58},
 		{"id":"14a1b36b035b29b7","type":"file","file":"sprint.md","x":-312,"y":-400,"width":845,"height":110,"color":"6"},
 		{"id":"ca895cb5d44fd876","type":"text","text":"results in","x":-284,"y":160,"width":129,"height":61},
-		{"id":"381bec890b0dbb61","x":-310,"y":320,"width":180,"height":80,"type":"file","file":"sprint goal.md"}
+		{"id":"381bec890b0dbb61","x":-309,"y":280,"width":180,"height":80,"type":"file","file":"sprint goal.md"}
 	],
 	"edges":[
 		{"id":"aaadc70d6b7f10bb","fromNode":"14a1b36b035b29b7","fromSide":"bottom","toNode":"c85e39acb372b607","toSide":"top"},
