@@ -9,7 +9,7 @@ Sprint planning initiates the Sprint by laying out the work to be performed for 
 ### topic one: Why is this sprint valuable?
 The [[product owner]] proposes how the product could increase its value and utility in the current [[sprint]]. The whole [[MOC - scrum team]] collaborates to define a [[sprint goal]], that communicates why the [[sprint]] is valuable to [[stakeholders]].
 
-### topic two: What con be done this sprint?
-
+### topic two: What can be done this sprint?
+Through 
 
 ### topic three: How will this chosen work get done?
