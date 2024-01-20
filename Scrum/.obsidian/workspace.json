@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "product backlog.md",
+                "file": "sprint retrospective.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "product backlog.md"
+                "file": "sprint retrospective.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "product backlog.md",
+                "file": "sprint retrospective.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "product backlog.md",
+                "file": "sprint retrospective.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "product backlog.md",
+                "file": "sprint retrospective.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,8 +238,9 @@
   "active": "20dce18a671a131c",
   "lastOpenFiles": [
     "MOC - artifacts.md",
-    "sprint retrospective.md",
+    "product backlog.md",
     "Canvases/Events.canvas",
+    "sprint retrospective.md",
     "daily scrum.md",
     "sprint review.md",
     "lean thinking.md",
@@ -260,7 +261,6 @@
     "scrum theory.md",
     "Increment.md",
     "product goal.md",
-    "product backlog.md",
     "scrum definition.md",
     "pillars.md",
     "MOC-roles.md",
