@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "product goal.md",
+                "file": "product owner.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -73,7 +73,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "product goal.md"
+                "file": "product owner.md"
               }
             }
           },
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "product goal",
+                "query": "product",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "product goal.md",
+                "file": "product owner.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "product goal.md",
+                "file": "product owner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "product goal.md",
+                "file": "product owner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,13 +209,17 @@
   },
   "active": "20dce18a671a131c",
   "lastOpenFiles": [
-    "Increment.md",
+    "product.md",
+    "product owner.md",
+    "MOC - artifacts.md",
+    "pillars.md",
+    "product backlog.md",
     "product goal.md",
+    "sprint planning.md",
+    "Increment.md",
     "MOC - product.md",
     "sprint.md",
-    "MOC - artifacts.md",
     "sprint backlog.md",
-    "product backlog.md",
     "MOC - events.md",
     "Canvases/Events.canvas",
     "daily scrum.md",
@@ -223,7 +227,6 @@
     "sprint review.md",
     "lean thinking.md",
     "Canvases",
-    "sprint planning.md",
     "Untitled.canvas",
     "developers.md",
     "sprint goal.md",
@@ -231,10 +234,8 @@
     "scrum master.md",
     "cross-funktional.md",
     "self-managing.md",
-    "product owner.md",
     "scrum theory.md",
     "scrum definition.md",
-    "pillars.md",
     "MOC-roles.md",
     "empiricism.md",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 5.1/Fehler.md.2023-12-07_05.18.15.foldersync.old",

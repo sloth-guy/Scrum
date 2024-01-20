@@ -1,4 +1,4 @@
-The Product Owner is one person, not a committee. The Product Owner may represent the needs of many [[stakeholders]] in the [[product backlog]]. Those wanting to change the [[product backlog]] can do so by trying to convince the Product Owner
+The product owner is one person, not a committee. The product owner may represent the needs of many [[stakeholders]] in the [[product backlog]]. Those wanting to change the [[product backlog]] can do so by trying to convince the Product Owner
 
 For a product owner to be successful, the entire organization must respect their decisions. These decisions are visible in the content and ordering of the [[product backlog]] and through the inspectable [[Increment]] at the [[sprint review]].
 

@@ -7,6 +7,6 @@ The [[MOC - artifacts]] and the progress toward agreed goals must be inspected f
 Inspection enables [[#adaptation]]. Inspection without adaptation is pointless.
 
 # adaptation
-If any aspects of a process deviate outside acceptable limits of if the resulting product is unacceptable, the process being applied or the materials being produces must be adjusted. The adjustment must be made ad soon as possible to minimize further deviation.
+If any aspects of a process deviate outside acceptable limits of if the resulting [[product]] is unacceptable, the process being applied or the materials being produces must be adjusted. The adjustment must be made ad soon as possible to minimize further deviation.
 
 A scrum Team is expected to adapt the moment it learns anything new through [[#inspection]]

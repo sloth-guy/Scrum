@@ -1,0 +1,1 @@
+A product is a vehicle to deliver value. It has a clear boundary, known [[stakeholders]], well-defined users or customers. A product could be a service, a physical product, or something more abstract.
