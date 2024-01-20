@@ -8,14 +8,15 @@
 		{"id":"3f1abd46c3275860","type":"file","file":"sprint planning.md","x":-447,"y":40,"width":300,"height":102,"color":"4"},
 		{"id":"02a7d8bfbf42d541","type":"file","file":"daily scrum.md","x":-88,"y":40,"width":300,"height":102,"color":"5"},
 		{"id":"bbd8e179d6c24511","type":"file","file":"sprint review.md","x":273,"y":40,"width":300,"height":102,"color":"#284b8f"},
-		{"id":"cea6565e930241a2","type":"file","file":"sprint retrospective.md","x":637,"y":40,"width":300,"height":102,"color":"#32859a"},
+		{"id":"cea6565e930241a2","type":"file","file":"sprint retrospective.md","x":637,"y":40,"width":300,"height":102,"color":"#302371"},
 		{"id":"bcab0b58596f533b","type":"text","text":"reflect on what changed during the sprint","x":297,"y":183,"width":252,"height":62,"color":"#284b8f"},
 		{"id":"ca895cb5d44fd876","type":"text","text":"results in","x":-361,"y":183,"width":129,"height":61,"color":"4"},
-		{"id":"8a20de2047c1eb48","type":"text","text":"increase quality and effectiveness","x":662,"y":183,"width":250,"height":73,"color":"#32859a"},
+		{"id":"8a20de2047c1eb48","type":"text","text":"increase quality and effectiveness","x":662,"y":183,"width":250,"height":73,"color":"#302371"},
 		{"id":"381bec890b0dbb61","type":"file","file":"sprint goal.md","x":-387,"y":323,"width":180,"height":80,"color":"4"},
 		{"id":"d7ba23246339e15d","type":"file","file":"sprint backlog.md","x":64,"y":323,"width":160,"height":77,"color":"5"},
 		{"id":"d6de74348d0c40e0","type":"file","file":"product backlog.md","x":313,"y":373,"width":220,"height":60,"color":"#284b8f"},
-		{"id":"7a4ce47848735154","type":"text","text":"if necessary, adapt","x":339,"y":278,"width":168,"height":60,"color":"#284b8f"}
+		{"id":"7a4ce47848735154","type":"text","text":"if necessary, adapt","x":339,"y":278,"width":168,"height":60,"color":"#284b8f"},
+		{"id":"82755c6bbf16bd4f","x":840,"y":-358,"width":250,"height":77,"color":"#302371","type":"text","text":"ends the current"}
 	],
 	"edges":[
 		{"id":"aaadc70d6b7f10bb","fromNode":"14a1b36b035b29b7","fromSide":"bottom","toNode":"c85e39acb372b607","toSide":"top"},
@@ -32,6 +33,8 @@
 		{"id":"09c64bc9df30a184","fromNode":"7a4ce47848735154","fromSide":"bottom","toNode":"d6de74348d0c40e0","toSide":"top"},
 		{"id":"f488f7c748edb904","fromNode":"bbd8e179d6c24511","fromSide":"bottom","toNode":"bcab0b58596f533b","toSide":"top"},
 		{"id":"fcbb3657b2e1189f","fromNode":"bcab0b58596f533b","fromSide":"bottom","toNode":"7a4ce47848735154","toSide":"top"},
-		{"id":"3d3946e8dc46ff3e","fromNode":"cea6565e930241a2","fromSide":"bottom","toNode":"8a20de2047c1eb48","toSide":"top"}
+		{"id":"3d3946e8dc46ff3e","fromNode":"cea6565e930241a2","fromSide":"bottom","toNode":"8a20de2047c1eb48","toSide":"top"},
+		{"id":"647eec63476c6e1e","fromNode":"cea6565e930241a2","fromSide":"right","toNode":"82755c6bbf16bd4f","toSide":"right"},
+		{"id":"5fb8908bcd455c51","fromNode":"82755c6bbf16bd4f","fromSide":"left","toNode":"14a1b36b035b29b7","toSide":"right"}
 	]
 }
