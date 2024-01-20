@@ -1,1 +1,1 @@
-The [[sprint backlog]], the [[product backlog]] items selected for the Sprint, plus the plan for delivering them are together referred to as the Sprint Backlog.
+The sprint backlog is composed of the [[sprint goal]] the [[product backlog]] items selected for the Sprint, plus the plan for delivering the [[increment]].

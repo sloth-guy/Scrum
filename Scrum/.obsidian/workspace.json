@@ -11,14 +11,12 @@
             "id": "20dce18a671a131c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvases/Events.canvas",
-                "viewState": {
-                  "x": 749.2256350655468,
-                  "y": 91.0019955917374,
-                  "zoom": -0.4767347285941032
-                }
+                "file": "sprint backlog.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -75,7 +73,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Canvases/Events.canvas"
+                "file": "sprint backlog.md"
               }
             }
           },
@@ -85,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "product",
+                "query": "increment",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Canvases/Events.canvas",
+                "file": "sprint backlog.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -158,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canvases/Events.canvas",
+                "file": "sprint backlog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Canvases/Events.canvas",
+                "file": "sprint backlog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,8 +207,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20dce18a671a131c",
+  "active": "75e436d74eae028f",
   "lastOpenFiles": [
+    "sprint.md",
+    "MOC - events.md",
+    "Canvases/Events.canvas",
     "product goal.md",
     "sprint planning.md",
     "product.md",
@@ -220,10 +221,7 @@
     "pillars.md",
     "Increment.md",
     "MOC - product.md",
-    "sprint.md",
     "sprint backlog.md",
-    "MOC - events.md",
-    "Canvases/Events.canvas",
     "daily scrum.md",
     "sprint retrospective.md",
     "sprint review.md",
@@ -239,7 +237,6 @@
     "scrum theory.md",
     "scrum definition.md",
     "MOC-roles.md",
-    "empiricism.md",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 5.1/Fehler.md.2023-12-07_05.18.15.foldersync.old",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.2/Download und Installation von Python.md.2023-12-06_23.18.02.foldersync.old",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.2/Anaconda.md.2023-12-06_23.17.59.foldersync.old",
