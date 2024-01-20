@@ -28,8 +28,8 @@
               "state": {
                 "file": "Events.canvas",
                 "viewState": {
-                  "x": 106.5,
-                  "y": -20,
+                  "x": 203.41899782261308,
+                  "y": 139.52815356489947,
                   "zoom": -0.7785084322756688
                 }
               }
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sprint review.md"
+                "file": "Events.canvas"
               }
             }
           },
@@ -134,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sprint review.md",
+                "file": "Events.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -184,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sprint review.md",
+                "file": "Events.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sprint review.md",
+                "file": "Events.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,11 +236,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20dce18a671a131c",
+  "active": "0489f0080f5dc07e",
   "lastOpenFiles": [
+    "sprint review.md",
     "Events.canvas",
     "daily scrum.md",
-    "sprint review.md",
     "sprint retrospective.md",
     "sprint planning.md",
     "MOC - events.md",
