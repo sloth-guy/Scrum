@@ -11,12 +11,14 @@
             "id": "20dce18a671a131c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "definition of done.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -32,7 +34,7 @@
       {
         "id": "7f761d4ac68c99e1",
         "type": "tabs",
-        "dimension": 42.951541850220266,
+        "dimension": 75.64870259481037,
         "children": [
           {
             "id": "ca2b65b6b0dff460",
@@ -65,7 +67,7 @@
       {
         "id": "128aa98fb0eeda50",
         "type": "tabs",
-        "dimension": 57.048458149779734,
+        "dimension": 24.35129740518962,
         "children": [
           {
             "id": "c8b3efc3098bff4d",
@@ -73,7 +75,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "definition of done.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -83,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "definition of done",
+                "query": "arti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "definition of done.md",
+                "file": "Untitled.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "definition of done.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "definition of done.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,20 +209,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20dce18a671a131c",
+  "active": "ca2b65b6b0dff460",
   "lastOpenFiles": [
-    "MOC - artifacts.md",
-    "definition of done.md",
-    "Increment.md",
-    "sprint backlog.md",
     "sprint.md",
+    "Untitled.canvas",
+    "MOC - artifacts.md",
+    "Increment.md",
+    "product backlog.md",
+    "product goal.md",
+    "sprint backlog.md",
+    "definition of done.md",
+    "sprint goal.md",
     "MOC - events.md",
     "Canvases/Events.canvas",
-    "product goal.md",
     "sprint planning.md",
     "product.md",
     "product owner.md",
-    "product backlog.md",
     "pillars.md",
     "MOC - product.md",
     "daily scrum.md",
@@ -228,16 +232,13 @@
     "sprint review.md",
     "lean thinking.md",
     "Canvases",
-    "Untitled.canvas",
     "developers.md",
-    "sprint goal.md",
     "MOC - scrum team.md",
     "scrum master.md",
     "cross-funktional.md",
     "self-managing.md",
     "scrum theory.md",
     "scrum definition.md",
-    "MOC-roles.md",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 5.1/Fehler.md.2023-12-07_05.18.15.foldersync.old",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.2/Download und Installation von Python.md.2023-12-06_23.18.02.foldersync.old",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.2/Anaconda.md.2023-12-06_23.17.59.foldersync.old",
