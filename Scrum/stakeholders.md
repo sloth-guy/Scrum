@@ -1,0 +1,1 @@
+a person external to the Scrum Team with a specific interest in and knowledge of a product that is required for incremental discovery. Represented by the Product Owner and actively engaged with the Scrum Team at [[sprint review]].

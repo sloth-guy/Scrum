@@ -11,8 +11,13 @@
             "id": "20dce18a671a131c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MOC - events.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
             }
           },
           {
@@ -80,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MOC - events.md"
+              }
             }
           },
           {
@@ -112,6 +119,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "MOC - events.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -161,6 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MOC - events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,6 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MOC - events.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,24 +222,25 @@
   },
   "active": "20dce18a671a131c",
   "lastOpenFiles": [
+    "sprint.md",
+    "MOC - events.md",
+    "Canvases/Events.canvas",
+    "sprint planning.md",
+    "stakeholders.md",
     "scrum definition.md",
     "MOC - scrum team.md",
     "MOC-roles.md",
     "scrum master.md",
     "product backlog.md",
     "MOC - product.md",
-    "MOC - events.md",
     "cross-funktional.md",
-    "Canvases/Events.canvas",
     "Canvases/Artifacts.canvas",
     "definition of done.md",
     "MOC - artifacts.md",
     "sprint goal.md",
     "sprint backlog.md",
-    "sprint.md",
     "Increment.md",
     "product goal.md",
-    "sprint planning.md",
     "product.md",
     "product owner.md",
     "pillars.md",
@@ -239,8 +250,6 @@
     "lean thinking.md",
     "Canvases",
     "developers.md",
-    "self-managing.md",
-    "scrum theory.md",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 5.1/Fehler.md.2023-12-07_05.18.15.foldersync.old",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.2/Download und Installation von Python.md.2023-12-06_23.18.02.foldersync.old",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.2/Anaconda.md.2023-12-06_23.17.59.foldersync.old",
