@@ -24,12 +24,31 @@
             "id": "0489f0080f5dc07e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Events.canvas",
+                "viewState": {
+                  "x": 106.5,
+                  "y": -20,
+                  "zoom": -0.7785084322756688
+                }
+              }
+            }
+          },
+          {
+            "id": "3a443094f013690d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily scrum.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +100,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sprint review.md"
+              }
             }
           },
           {
@@ -113,6 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "sprint review.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -162,6 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sprint review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,6 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sprint review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,15 +235,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0489f0080f5dc07e",
+  "active": "20dce18a671a131c",
   "lastOpenFiles": [
+    "Events.canvas",
+    "daily scrum.md",
     "sprint review.md",
     "sprint retrospective.md",
     "sprint planning.md",
     "MOC - events.md",
     "sprint.md",
-    "daily scrum.md",
-    "Events.canvas",
     "MOC - artifacts.md",
     "sprint backlog.md",
     "Untitled.canvas",
