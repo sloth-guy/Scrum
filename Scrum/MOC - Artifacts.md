@@ -8,3 +8,5 @@ Scrum’s artifacts represent work or value. They are designed to maximize [[pil
 - For the [[Increment]] it is the [[definition of done]].
 
 These commitments exist to reinforce [[empiricism]] and the Scrum values for the [[MOC - scrum team|Scrum Team]] and their stakeholders.
+
+![[Artifacts.canvas]]

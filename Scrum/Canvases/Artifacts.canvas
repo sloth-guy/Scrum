@@ -1,14 +1,14 @@
 {
 	"nodes":[
-		{"id":"ecb02076edec09f7","type":"file","file":"product backlog.md","x":-420,"y":-480,"width":240,"height":100},
-		{"id":"63772b8880cc9f83","type":"text","text":"is committed to ","x":-140,"y":-460,"width":200,"height":60},
-		{"id":"4a3b38266b95dd55","type":"file","file":"sprint backlog.md","x":-420,"y":-340,"width":240,"height":100},
-		{"id":"84ed236f0fa99d69","type":"file","file":"product goal.md","x":100,"y":-480,"width":240,"height":100},
-		{"id":"89ab220ab8d378b9","type":"text","text":"is committed to ","x":-140,"y":-320,"width":200,"height":60},
-		{"id":"6d5d909e2ec7f202","type":"file","file":"sprint goal.md","x":100,"y":-340,"width":240,"height":100},
-		{"id":"bcc0bf8e9d58f012","type":"file","file":"Increment.md","x":-420,"y":-200,"width":240,"height":100},
-		{"id":"3610d7f08db7fb7f","type":"text","text":"is committed to ","x":-140,"y":-180,"width":200,"height":60},
-		{"id":"97895691d08e9ba7","x":100,"y":-199,"width":240,"height":98,"type":"file","file":"definition of done.md"}
+		{"id":"ecb02076edec09f7","type":"file","file":"product backlog.md","x":-420,"y":-480,"width":240,"height":100,"color":"4"},
+		{"id":"63772b8880cc9f83","type":"text","text":"is committed to / works towards","x":-140,"y":-460,"width":200,"height":60,"color":"4"},
+		{"id":"4a3b38266b95dd55","type":"file","file":"sprint backlog.md","x":-420,"y":-340,"width":240,"height":100,"color":"5"},
+		{"id":"84ed236f0fa99d69","type":"file","file":"product goal.md","x":100,"y":-480,"width":240,"height":100,"color":"4"},
+		{"id":"89ab220ab8d378b9","type":"text","text":"is committed to / works towards","x":-140,"y":-320,"width":200,"height":60,"color":"5"},
+		{"id":"6d5d909e2ec7f202","type":"file","file":"sprint goal.md","x":100,"y":-340,"width":240,"height":100,"color":"5"},
+		{"id":"bcc0bf8e9d58f012","type":"file","file":"Increment.md","x":-420,"y":-200,"width":240,"height":100,"color":"6"},
+		{"id":"3610d7f08db7fb7f","type":"text","text":"is committed to / works towards","x":-140,"y":-180,"width":200,"height":60,"color":"6"},
+		{"id":"97895691d08e9ba7","type":"file","file":"definition of done.md","x":100,"y":-199,"width":240,"height":98,"color":"6"}
 	],
 	"edges":[
 		{"id":"9b8c4ea11c92fdde","fromNode":"ecb02076edec09f7","fromSide":"right","toNode":"63772b8880cc9f83","toSide":"left"},
