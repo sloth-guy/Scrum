@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "commit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -207,7 +207,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20dce18a671a131c",
+  "active": "75e436d74eae028f",
   "lastOpenFiles": [
     "sprint backlog.md",
     "MOC - events.md",
