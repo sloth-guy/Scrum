@@ -11,13 +11,8 @@
             "id": "20dce18a671a131c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scrum master.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -85,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "scrum master.md"
-              }
+              "state": {}
             }
           },
           {
@@ -96,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "planning",
+                "query": "roles",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +112,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "scrum master.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -169,7 +161,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scrum master.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +177,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scrum master.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,12 +210,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75e436d74eae028f",
+  "active": "20dce18a671a131c",
   "lastOpenFiles": [
+    "scrum definition.md",
+    "MOC - scrum team.md",
     "MOC-roles.md",
+    "scrum master.md",
+    "product backlog.md",
+    "MOC - product.md",
+    "MOC - events.md",
     "cross-funktional.md",
     "Canvases/Events.canvas",
-    "MOC - events.md",
     "Canvases/Artifacts.canvas",
     "definition of done.md",
     "MOC - artifacts.md",
@@ -233,24 +228,19 @@
     "sprint backlog.md",
     "sprint.md",
     "Increment.md",
-    "product backlog.md",
     "product goal.md",
     "sprint planning.md",
     "product.md",
     "product owner.md",
     "pillars.md",
-    "MOC - product.md",
     "daily scrum.md",
     "sprint retrospective.md",
     "sprint review.md",
     "lean thinking.md",
     "Canvases",
     "developers.md",
-    "MOC - scrum team.md",
-    "scrum master.md",
     "self-managing.md",
     "scrum theory.md",
-    "scrum definition.md",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 5.1/Fehler.md.2023-12-07_05.18.15.foldersync.old",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.2/Download und Installation von Python.md.2023-12-06_23.18.02.foldersync.old",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.2/Anaconda.md.2023-12-06_23.17.59.foldersync.old",

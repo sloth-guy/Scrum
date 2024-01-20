@@ -10,7 +10,7 @@ He is accountable for the effectiveness of the [[MOC - scrum team]]. They do thi
 ### serving the [[product owner]]
 - help find techniques for effective [[product goal]] definition and [[product backlog]] management
 - helping the [[MOC - scrum team]] unterstand the need for clear and concise [[product backlog]] items
-- helping establish empirical [[product planning]] for a complex environment
+- helping establish empirical product planning for a complex environment
 - facilitating  [[stakeholders]] collaborations as requested or needed
 
 ### serving the organization
