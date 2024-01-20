@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "product backlog.md",
+                "file": "product goal.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -73,7 +73,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "product backlog.md"
+                "file": "product goal.md"
               }
             }
           },
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "commit",
+                "query": "product goal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "product backlog.md",
+                "file": "product goal.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "product backlog.md",
+                "file": "product goal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "product backlog.md",
+                "file": "product goal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,32 +207,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75e436d74eae028f",
+  "active": "20dce18a671a131c",
   "lastOpenFiles": [
+    "Increment.md",
+    "product goal.md",
+    "MOC - product.md",
+    "sprint.md",
+    "MOC - artifacts.md",
     "sprint backlog.md",
+    "product backlog.md",
     "MOC - events.md",
     "Canvases/Events.canvas",
     "daily scrum.md",
     "sprint retrospective.md",
-    "product backlog.md",
-    "MOC - artifacts.md",
     "sprint review.md",
     "lean thinking.md",
     "Canvases",
     "sprint planning.md",
-    "sprint.md",
     "Untitled.canvas",
     "developers.md",
     "sprint goal.md",
     "MOC - scrum team.md",
-    "MOC - product.md",
     "scrum master.md",
     "cross-funktional.md",
     "self-managing.md",
     "product owner.md",
     "scrum theory.md",
-    "Increment.md",
-    "product goal.md",
     "scrum definition.md",
     "pillars.md",
     "MOC-roles.md",

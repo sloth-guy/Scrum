@@ -5,7 +5,7 @@ A Sprint has a fixed length of one month or less, to create consistency. When a 
 A new Sprint starts immediately after the conclusion of the previous Sprint.
 
 ## contents
-All the work necessary to achieve the Product Goal, including Sprint Planning, Daily Scrums, Sprint Review, and Sprint Retrospective, happen within Sprints.
+All the work necessary to achieve the [[product goal]], including Sprint Planning, Daily Scrums, Sprint Review, and Sprint Retrospective, happen within Sprints.
 
 ## rules
 - No changes are made that would endanger the [[sprint goal]]
