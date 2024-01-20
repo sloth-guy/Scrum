@@ -5,3 +5,5 @@ Each event is a formal opportunity to inspect and adapt [[MOC - artifacts]]. The
 [[daily scrum]]
 [[sprint review]]
 [[sprint retrospective]]
+
+![[Events.canvas]]

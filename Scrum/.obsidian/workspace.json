@@ -11,45 +11,18 @@
             "id": "20dce18a671a131c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sprint retrospective.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0489f0080f5dc07e",
-            "type": "leaf",
-            "state": {
               "type": "canvas",
               "state": {
                 "file": "Canvases/Events.canvas",
                 "viewState": {
-                  "x": 391.2222696434423,
-                  "y": 198.1503383825489,
-                  "zoom": -0.7785084322756688
+                  "x": 245,
+                  "y": 125.21428571428574,
+                  "zoom": -0.033947331923337876
                 }
               }
             }
-          },
-          {
-            "id": "3a443094f013690d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily scrum.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,18 +209,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0489f0080f5dc07e",
+  "active": "20dce18a671a131c",
   "lastOpenFiles": [
-    "sprint retrospective.md",
-    "Canvases/Events.canvas",
+    "MOC - events.md",
     "daily scrum.md",
-    "MOC - artifacts.md",
+    "Canvases/Events.canvas",
+    "sprint retrospective.md",
     "product backlog.md",
+    "MOC - artifacts.md",
     "sprint review.md",
     "lean thinking.md",
     "Canvases",
     "sprint planning.md",
-    "MOC - events.md",
     "sprint.md",
     "sprint backlog.md",
     "Untitled.canvas",
