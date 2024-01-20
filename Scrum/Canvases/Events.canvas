@@ -12,9 +12,9 @@
 		{"id":"629fc12d9df45441","x":-102,"y":320,"width":111,"height":120,"type":"file","file":"sprint goal.md"},
 		{"id":"9cf1aa3cf680e42c","x":20,"y":201,"width":115,"height":60,"type":"text","text":"adapt"},
 		{"id":"d7ba23246339e15d","x":30,"y":360,"width":205,"height":160,"type":"file","file":"sprint backlog.md"},
-		{"id":"7a4ce47848735154","type":"text","text":"adapt","x":256,"y":335,"width":125,"height":50},
 		{"id":"bcab0b58596f533b","x":160,"y":199,"width":252,"height":62,"type":"text","text":"reflect on what changed during the sprint"},
-		{"id":"d6de74348d0c40e0","x":241,"y":480,"width":140,"height":147,"type":"file","file":"product backlog.md"}
+		{"id":"d6de74348d0c40e0","x":241,"y":480,"width":140,"height":147,"type":"file","file":"product backlog.md"},
+		{"id":"7a4ce47848735154","type":"text","text":"if necessary, adapt","x":235,"y":330,"width":168,"height":60}
 	],
 	"edges":[
 		{"id":"aaadc70d6b7f10bb","fromNode":"14a1b36b035b29b7","fromSide":"bottom","toNode":"c85e39acb372b607","toSide":"top"},
