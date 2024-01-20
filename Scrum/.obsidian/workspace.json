@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Canvases/Artifacts.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": -6.734772289856236,
+                  "y": -93,
+                  "zoom": -0.3333333333333333
                 }
               }
             }
@@ -75,7 +75,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "definition of done.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "definition of done.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "definition of done.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "definition of done.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,10 +209,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca2b65b6b0dff460",
+  "active": "20dce18a671a131c",
   "lastOpenFiles": [
     "sprint.md",
-    "Untitled.canvas",
+    "Canvases/Artifacts.canvas",
     "MOC - artifacts.md",
     "Increment.md",
     "product backlog.md",
