@@ -11,14 +11,12 @@
             "id": "20dce18a671a131c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvases/Artifacts.canvas",
-                "viewState": {
-                  "x": -7.01538780193358,
-                  "y": -93,
-                  "zoom": -0.3333333333333333
-                }
+                "file": "scrum master.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           },
@@ -35,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -48,7 +45,7 @@
       {
         "id": "7f761d4ac68c99e1",
         "type": "tabs",
-        "dimension": 75.64870259481037,
+        "dimension": 57.48502994011976,
         "children": [
           {
             "id": "ca2b65b6b0dff460",
@@ -81,7 +78,7 @@
       {
         "id": "128aa98fb0eeda50",
         "type": "tabs",
-        "dimension": 24.35129740518962,
+        "dimension": 42.51497005988024,
         "children": [
           {
             "id": "c8b3efc3098bff4d",
@@ -89,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "definition of done.md"
+                "file": "scrum master.md"
               }
             }
           },
@@ -99,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "arti",
+                "query": "planning",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +119,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "definition of done.md",
+                "file": "scrum master.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 360.5
   },
   "right": {
     "id": "86fe13c91ca952ae",
@@ -172,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "definition of done.md",
+                "file": "scrum master.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "definition of done.md",
+                "file": "scrum master.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,19 +220,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67a34801a7e5861b",
+  "active": "75e436d74eae028f",
   "lastOpenFiles": [
+    "MOC-roles.md",
+    "cross-funktional.md",
+    "Canvases/Events.canvas",
+    "MOC - events.md",
+    "Canvases/Artifacts.canvas",
+    "definition of done.md",
     "MOC - artifacts.md",
     "sprint goal.md",
     "sprint backlog.md",
-    "Canvases/Artifacts.canvas",
     "sprint.md",
     "Increment.md",
     "product backlog.md",
     "product goal.md",
-    "definition of done.md",
-    "MOC - events.md",
-    "Canvases/Events.canvas",
     "sprint planning.md",
     "product.md",
     "product owner.md",
@@ -249,7 +248,6 @@
     "developers.md",
     "MOC - scrum team.md",
     "scrum master.md",
-    "cross-funktional.md",
     "self-managing.md",
     "scrum theory.md",
     "scrum definition.md",

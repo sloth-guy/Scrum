@@ -16,7 +16,7 @@
 		{"id":"d7ba23246339e15d","type":"file","file":"sprint backlog.md","x":64,"y":323,"width":160,"height":77,"color":"5"},
 		{"id":"d6de74348d0c40e0","type":"file","file":"product backlog.md","x":313,"y":373,"width":220,"height":60,"color":"#284b8f"},
 		{"id":"7a4ce47848735154","type":"text","text":"if necessary, adapt","x":339,"y":278,"width":168,"height":60,"color":"#284b8f"},
-		{"id":"82755c6bbf16bd4f","x":812,"y":-345,"width":200,"height":50,"color":"#302371","type":"text","text":"ends the current"}
+		{"id":"82755c6bbf16bd4f","type":"text","text":"ends the current","x":812,"y":-345,"width":200,"height":50,"color":"#302371"}
 	],
 	"edges":[
 		{"id":"aaadc70d6b7f10bb","fromNode":"14a1b36b035b29b7","fromSide":"bottom","toNode":"c85e39acb372b607","toSide":"top"},
