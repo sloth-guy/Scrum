@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sprint goal.md",
+                "file": "definition of done.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -89,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sprint goal.md"
+                "file": "definition of done.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sprint goal.md",
+                "file": "definition of done.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sprint goal.md",
+                "file": "definition of done.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sprint goal.md",
+                "file": "definition of done.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,9 +225,9 @@
   },
   "active": "67a34801a7e5861b",
   "lastOpenFiles": [
-    "sprint backlog.md",
-    "sprint goal.md",
     "MOC - artifacts.md",
+    "sprint goal.md",
+    "sprint backlog.md",
     "Canvases/Artifacts.canvas",
     "sprint.md",
     "Increment.md",
