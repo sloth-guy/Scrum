@@ -2,5 +2,5 @@ The sprint backlog is a plan by and for the [[developers]]. It is a highly viabl
 
 The sprint backlog is composed of the [[sprint goal]], the [[product backlog]] items selected for the Sprint, and the plan for delivering the [[increment]].
 
-It should be updated during the [[sprint]] as more is learned
+It should be updated during the [[sprint]] as more is learned. It should have enough detail that they can inspect their progress in the [[daily scrum]].
 

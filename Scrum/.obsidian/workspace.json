@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sprint backlog.md",
+                "file": "definition of done.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -73,7 +73,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sprint backlog.md"
+                "file": "definition of done.md"
               }
             }
           },
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "increment",
+                "query": "definition of done",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sprint backlog.md",
+                "file": "definition of done.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sprint backlog.md",
+                "file": "definition of done.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sprint backlog.md",
+                "file": "definition of done.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,8 +207,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75e436d74eae028f",
+  "active": "20dce18a671a131c",
   "lastOpenFiles": [
+    "MOC - artifacts.md",
+    "definition of done.md",
+    "Increment.md",
+    "sprint backlog.md",
     "sprint.md",
     "MOC - events.md",
     "Canvases/Events.canvas",
@@ -217,11 +221,8 @@
     "product.md",
     "product owner.md",
     "product backlog.md",
-    "MOC - artifacts.md",
     "pillars.md",
-    "Increment.md",
     "MOC - product.md",
-    "sprint backlog.md",
     "daily scrum.md",
     "sprint retrospective.md",
     "sprint review.md",
