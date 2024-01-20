@@ -8,4 +8,4 @@ The purpose of the sprint retrospective is to plan ways to increase quality and 
  The [[MOC - scrum team]] identifies the most helpful changes to improve its effectiveness. The most impactful improvements are addressed as soon as possible. They may be even added to the [[sprint backlog]] for the next sprint.
 
 ## time-frame
-The sprint retrospective concludes the sprint. It is timeboxed to a maximum of three hours for a one month sprint. For shorter sprints, the event is usually shorter.
+The sprint retrospective concludes the sprint. It is time boxed to a maximum of three hours for a one month sprint. For shorter sprints, the event is usually shorter.
