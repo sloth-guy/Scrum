@@ -1,1 +1,1 @@
-i
+The purpose of the sprint review is to inspect the outcome of the sprint and determine future adaptations. The 
