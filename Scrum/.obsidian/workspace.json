@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3243fcb5439766ca",
+        "id": "62617fb1ce20a0d4",
         "type": "tabs",
         "children": [
           {
-            "id": "de3c50192beaedc4",
+            "id": "20dce18a671a131c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,19 +21,15 @@
             }
           },
           {
-            "id": "df5612b1a8a53936",
+            "id": "0489f0080f5dc07e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sprint planning.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,9 +81,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sprint review.md"
-              }
+              "state": {}
             }
           },
           {
@@ -119,7 +113,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sprint review.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -169,7 +162,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sprint review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +178,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sprint review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,10 +211,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de3c50192beaedc4",
+  "active": "0489f0080f5dc07e",
   "lastOpenFiles": [
-    "MOC - events.md",
+    "sprint review.md",
+    "sprint retrospective.md",
     "sprint planning.md",
+    "MOC - events.md",
     "sprint.md",
     "daily scrum.md",
     "Events.canvas",
@@ -232,8 +225,6 @@
     "Untitled.canvas",
     "developers.md",
     "sprint goal.md",
-    "sprint retrospective.md",
-    "sprint review.md",
     "MOC - scrum team.md",
     "MOC - product.md",
     "scrum master.md",
