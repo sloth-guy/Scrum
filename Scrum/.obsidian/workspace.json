@@ -11,11 +11,32 @@
             "id": "cd7ca599049cdea2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -116,
+                  "y": -98.67265764022319,
+                  "zoom": -0.6666666666666666
+                }
+              }
+            }
+          },
+          {
+            "id": "e4cd22caef42b4cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "product backlog.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,8 +76,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "128aa98fb0eeda50",
@@ -69,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC - events.md"
+                "file": "product backlog.md"
               }
             }
           },
@@ -79,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "roles",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MOC - events.md",
+                "file": "product backlog.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -152,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC - events.md",
+                "file": "product backlog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOC - events.md",
+                "file": "product backlog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,8 +223,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8ace69252d59342",
+  "active": "e4cd22caef42b4cf",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Pasted image 20240126091447.png",
+    "product backlog.md",
     "sprint.md",
     "MOC - events.md",
     "Canvases/Events.canvas",
@@ -214,7 +237,6 @@
     "MOC - scrum team.md",
     "MOC-roles.md",
     "scrum master.md",
-    "product backlog.md",
     "MOC - product.md",
     "cross-funktional.md",
     "Canvases/Artifacts.canvas",
@@ -246,7 +268,6 @@
     "Notizen/Einführung in die Programmierung mit Python/Anhänge/Beispiel Kurvenplots SciPy.png",
     "Notizen/Einführung in die Programmierung mit Python/Anhänge/Beispiel Tortendiagramm Matplotlib.png",
     "Notizen/Einführung in die Programmierung mit Python/Anhänge/Beispiel Matplotlib Kurvenplot.png",
-    "Notizen/Einführung in die Programmierung mit Python/Anhänge/Beispiel NumPy funktionen.png",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.4",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.3",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 6.2",
