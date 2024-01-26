@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "62617fb1ce20a0d4",
+        "id": "7e04c7748d9d9c99",
         "type": "tabs",
         "children": [
           {
-            "id": "20dce18a671a131c",
+            "id": "cd7ca599049cdea2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MOC - events.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "67a34801a7e5861b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "definition of done.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -73,7 +55,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "128aa98fb0eeda50",
@@ -220,7 +203,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20dce18a671a131c",
+  "active": "e8ace69252d59342",
   "lastOpenFiles": [
     "sprint.md",
     "MOC - events.md",
