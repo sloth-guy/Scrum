@@ -8,35 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cd7ca599049cdea2",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -116,
-                  "y": -98.67265764022319,
-                  "zoom": -0.6666666666666666
-                }
-              }
-            }
-          },
-          {
             "id": "e4cd22caef42b4cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "product backlog.md",
+                "file": "sprint planning.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +73,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "product backlog.md"
+                "file": "sprint planning.md"
               }
             }
           },
@@ -122,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "product backlog.md",
+                "file": "sprint planning.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -172,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "product backlog.md",
+                "file": "sprint planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "product backlog.md",
+                "file": "sprint planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,13 +209,13 @@
   },
   "active": "e4cd22caef42b4cf",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "Pasted image 20240126091447.png",
-    "product backlog.md",
+    "Untitled.canvas",
     "sprint.md",
+    "sprint planning.md",
+    "product backlog.md",
     "MOC - events.md",
     "Canvases/Events.canvas",
-    "sprint planning.md",
     "stakeholders.md",
     "scrum definition.md",
     "MOC - scrum team.md",
