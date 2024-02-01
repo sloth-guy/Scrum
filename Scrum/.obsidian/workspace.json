@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "MOC - product.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -60,7 +60,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "128aa98fb0eeda50",
