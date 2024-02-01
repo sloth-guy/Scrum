@@ -60,8 +60,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "128aa98fb0eeda50",
@@ -208,7 +207,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4cd22caef42b4cf",
+  "active": "ca2b65b6b0dff460",
   "lastOpenFiles": [
     "MOC - events.md",
     "MOC - product.md",
