@@ -2,9 +2,8 @@
 	"nodes":[
 		{"id":"14a1b36b035b29b7","type":"file","file":"sprint.md","x":-312,"y":-400,"width":1072,"height":160,"color":"6"},
 		{"id":"c85e39acb372b607","type":"text","text":"contains","x":99,"y":-180,"width":250,"height":58,"color":"6"},
-		{"id":"629fc12d9df45441","type":"file","file":"sprint goal.md","x":-118,"y":320,"width":163,"height":80,"color":"5"},
-		{"id":"09cd843942a3d700","type":"text","text":"inspect progress towards","x":-101,"y":183,"width":129,"height":95,"color":"5"},
-		{"id":"9cf1aa3cf680e42c","type":"text","text":"adapt","x":86,"y":183,"width":115,"height":60,"color":"5"},
+		{"id":"629fc12d9df45441","type":"file","file":"sprint goal.md","x":-88,"y":320,"width":133,"height":80,"color":"5"},
+		{"id":"09cd843942a3d700","type":"text","text":"inspect progress towards","x":-88,"y":183,"width":133,"height":95,"color":"5"},
 		{"id":"3f1abd46c3275860","type":"file","file":"sprint planning.md","x":-447,"y":40,"width":300,"height":102,"color":"4"},
 		{"id":"02a7d8bfbf42d541","type":"file","file":"daily scrum.md","x":-88,"y":40,"width":300,"height":102,"color":"5"},
 		{"id":"bbd8e179d6c24511","type":"file","file":"sprint review.md","x":273,"y":40,"width":300,"height":102,"color":"#284b8f"},
@@ -12,11 +11,12 @@
 		{"id":"bcab0b58596f533b","type":"text","text":"reflect on what changed during the sprint","x":297,"y":183,"width":252,"height":62,"color":"#284b8f"},
 		{"id":"ca895cb5d44fd876","type":"text","text":"results in","x":-361,"y":183,"width":129,"height":61,"color":"4"},
 		{"id":"8a20de2047c1eb48","type":"text","text":"increase quality and effectiveness","x":662,"y":183,"width":250,"height":73,"color":"#302371"},
-		{"id":"381bec890b0dbb61","type":"file","file":"sprint goal.md","x":-387,"y":323,"width":180,"height":80,"color":"4"},
-		{"id":"d7ba23246339e15d","type":"file","file":"sprint backlog.md","x":64,"y":323,"width":160,"height":77,"color":"5"},
-		{"id":"d6de74348d0c40e0","type":"file","file":"product backlog.md","x":313,"y":373,"width":220,"height":60,"color":"#284b8f"},
+		{"id":"381bec890b0dbb61","type":"file","file":"sprint goal.md","x":-447,"y":323,"width":300,"height":77,"color":"4"},
+		{"id":"d7ba23246339e15d","type":"file","file":"sprint backlog.md","x":64,"y":323,"width":148,"height":77,"color":"5"},
+		{"id":"d6de74348d0c40e0","type":"file","file":"product backlog.md","x":273,"y":373,"width":300,"height":50,"color":"#284b8f"},
 		{"id":"7a4ce47848735154","type":"text","text":"if necessary, adapt","x":339,"y":278,"width":168,"height":60,"color":"#284b8f"},
-		{"id":"82755c6bbf16bd4f","type":"text","text":"ends the current","x":812,"y":-345,"width":200,"height":50,"color":"#302371"}
+		{"id":"82755c6bbf16bd4f","type":"text","text":"ends the current","x":812,"y":-345,"width":200,"height":50,"color":"#302371"},
+		{"id":"9cf1aa3cf680e42c","type":"text","text":"adapt","x":75,"y":183,"width":126,"height":50,"color":"5"}
 	],
 	"edges":[
 		{"id":"aaadc70d6b7f10bb","fromNode":"14a1b36b035b29b7","fromSide":"bottom","toNode":"c85e39acb372b607","toSide":"top"},

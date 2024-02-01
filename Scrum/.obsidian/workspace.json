@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sprint planning.md",
-                "mode": "source",
+                "file": "MOC - product.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sprint planning.md"
+                "file": "MOC - product.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sprint planning.md",
+                "file": "MOC - product.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sprint planning.md",
+                "file": "MOC - product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sprint planning.md",
+                "file": "MOC - product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,21 +209,22 @@
   },
   "active": "e4cd22caef42b4cf",
   "lastOpenFiles": [
+    "MOC - events.md",
+    "MOC - product.md",
+    "MOC - Artifacts.md",
+    "Canvases/Events.canvas",
+    "Canvases/Artifacts.canvas",
+    "sprint planning.md",
     "Pasted image 20240126091447.png",
     "Untitled.canvas",
     "sprint.md",
-    "sprint planning.md",
     "product backlog.md",
-    "MOC - events.md",
-    "Canvases/Events.canvas",
     "stakeholders.md",
     "scrum definition.md",
     "MOC - scrum team.md",
     "MOC-roles.md",
     "scrum master.md",
-    "MOC - product.md",
     "cross-funktional.md",
-    "Canvases/Artifacts.canvas",
     "definition of done.md",
     "MOC - artifacts.md",
     "sprint goal.md",
