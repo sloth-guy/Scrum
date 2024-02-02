@@ -1,10 +1,10 @@
 Empiricism means working in a fact-based, experience-based, and evidence-based manner. Scrum implements an empirical process where progress is based on observations of reality, not fictitious plans. Scrum also places great emphasis on mind-set and cultural shift to achieve business and organizational Agility.
 
-![[Pasted image 20240202132919.png]]
+![[pillars.png.png]]
 
 # transparency
 The emergent Process and work must be visible to those performing the work as well as those receiving the work. Important decisions are based on the perceived state of its three formal [[MOC - artifacts]]. [[MOC - artifacts]] that have low transparency can lead to decisions that diminish value and increase risk.
-Transparency enables [[#inspection]]. [#Inspection] without transparency is misleading and wasteful.
+Transparency enables [[#inspection]]. [[#Inspection]] without transparency is misleading and wasteful.
 
 # inspection
 The [[MOC - artifacts]] and the progress toward agreed goals must be inspected frequently and diligently to detedt potentially undesirable variances or problems. To help with inspection, Scrum provides cadence in the form of its five [[MOC - events]].

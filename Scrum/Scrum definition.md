@@ -4,4 +4,4 @@ Scrum is a lightweight framework, that helps people, teams and organization gene
 In Scrum there are Many different [[MOC - scrum team|roles]] witch have different purposes.
 
 Scrum combines four formal [[MOC - events]] for inspection an adaptation within a containing [[MOC - events|event]] (the [[sprint]]).
-These events work, because they implement the empirical [[pillars]].
+These events work, because they implement the [[pillars |empirical pillars]].
