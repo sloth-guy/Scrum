@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sprint review.md",
+                "file": "sprint retrospective.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -73,7 +73,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sprint review.md"
+                "file": "sprint retrospective.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sprint review.md",
+                "file": "sprint retrospective.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sprint review.md",
+                "file": "sprint retrospective.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sprint review.md",
+                "file": "sprint retrospective.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,6 +209,8 @@
   },
   "active": "e4cd22caef42b4cf",
   "lastOpenFiles": [
+    "sprint review.md",
+    "sprint retrospective.md",
     "MOC - events.md",
     "MOC - Scrum Team.md",
     "product goal.md",
@@ -236,8 +238,6 @@
     "product owner.md",
     "pillars.md",
     "daily scrum.md",
-    "sprint retrospective.md",
-    "sprint review.md",
     "lean thinking.md",
     "Canvases",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 5.1/Fehler.md.2023-12-07_05.18.15.foldersync.old",
