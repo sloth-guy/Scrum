@@ -10,11 +10,11 @@ He is accountable for the effectiveness of the [[MOC - scrum team]]. They do thi
 ### serving the [[product owner]]
 - help find techniques for effective [[product goal]] definition and [[product backlog]] management
 - helping the [[MOC - scrum team]] unterstand the need for clear and concise [[product backlog]] items
-- helping establish [[pillars | empirical]] product planning for a complex environment
+- helping establish [[empiricism | empirical]] product planning for a complex environment
 - facilitating  [[stakeholders]] collaborations as requested or needed
 
 ### serving the organization
 - leading, training and coaching the organization in its scrum adoption
 - planning and advising scrum implementations within the organization
-- helping employees and [[stakeholders]] understand and enact an [[pillars | empirical]] approach for complex work
+- helping employees and [[stakeholders]] understand and enact an [[empiricism | empirical]] approach for complex work
 - removing barriers between [[stakeholders]] and the [[MOC - scrum team]]

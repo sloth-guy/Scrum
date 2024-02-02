@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pillars.md",
+                "file": "Agile Manifesto.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pillars.md"
+                "file": "Agile Manifesto.md"
               }
             }
           },
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "empirical",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pillars.md",
+                "file": "Agile Manifesto.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pillars.md",
+                "file": "Agile Manifesto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pillars.md",
+                "file": "Agile Manifesto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,8 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,10 +222,10 @@
   },
   "active": "a3ef47a6951a73bd",
   "lastOpenFiles": [
-    "empiricism.md",
-    "pillars.md",
-    "Scrum definition.md",
     "scrum master.md",
+    "Scrum definition.md",
+    "pillars.md",
+    "empiricism.md",
     "pillars.png.png",
     "MOC - Artifacts.md",
     "MOC - product.md",
