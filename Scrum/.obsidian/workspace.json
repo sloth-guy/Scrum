@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agile Manifesto.md",
+                "file": "lean thinking.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agile Manifesto.md"
+                "file": "lean thinking.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Agile Manifesto.md",
+                "file": "lean thinking.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Agile Manifesto.md",
+                "file": "lean thinking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Agile Manifesto.md",
+                "file": "lean thinking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,6 +223,7 @@
   },
   "active": "a3ef47a6951a73bd",
   "lastOpenFiles": [
+    "Agile Manifesto.md",
     "scrum master.md",
     "Scrum definition.md",
     "pillars.md",
@@ -229,7 +231,6 @@
     "pillars.png.png",
     "MOC - Artifacts.md",
     "MOC - product.md",
-    "Agile Manifesto.md",
     "sprint retrospective.md",
     "sprint review.md",
     "MOC - events.md",
