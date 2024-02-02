@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC - Scrum Team.md",
+                "file": "product goal.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -73,7 +73,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC - Scrum Team.md"
+                "file": "product goal.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MOC - Scrum Team.md",
+                "file": "product goal.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC - Scrum Team.md",
+                "file": "product goal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOC - Scrum Team.md",
+                "file": "product goal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,10 +209,12 @@
   },
   "active": "e4cd22caef42b4cf",
   "lastOpenFiles": [
+    "product backlog.md",
+    "MOC - product.md",
+    "MOC - Scrum Team.md",
     "MOC - Artifacts.md",
     "stakeholders.md",
     "cross-funktional.md",
-    "MOC - product.md",
     "MOC - events.md",
     "Canvases/Events.canvas",
     "Canvases/Artifacts.canvas",
@@ -220,7 +222,6 @@
     "Pasted image 20240126091447.png",
     "Untitled.canvas",
     "sprint.md",
-    "product backlog.md",
     "scrum definition.md",
     "MOC - scrum team.md",
     "MOC-roles.md",
@@ -239,7 +240,6 @@
     "sprint review.md",
     "lean thinking.md",
     "Canvases",
-    "developers.md",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 5.1/Fehler.md.2023-12-07_05.18.15.foldersync.old",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.2/Download und Installation von Python.md.2023-12-06_23.18.02.foldersync.old",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.2/Anaconda.md.2023-12-06_23.17.59.foldersync.old",
