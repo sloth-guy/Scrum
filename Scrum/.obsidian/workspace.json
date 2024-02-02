@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC - Artifacts.md",
+                "file": "MOC - Scrum Team.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -73,7 +73,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC - Artifacts.md"
+                "file": "MOC - Scrum Team.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MOC - Artifacts.md",
+                "file": "MOC - Scrum Team.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC - Artifacts.md",
+                "file": "MOC - Scrum Team.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOC - Artifacts.md",
+                "file": "MOC - Scrum Team.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,11 +209,11 @@
   },
   "active": "e4cd22caef42b4cf",
   "lastOpenFiles": [
+    "MOC - Artifacts.md",
     "stakeholders.md",
     "cross-funktional.md",
     "MOC - product.md",
     "MOC - events.md",
-    "MOC - Artifacts.md",
     "Canvases/Events.canvas",
     "Canvases/Artifacts.canvas",
     "sprint planning.md",
