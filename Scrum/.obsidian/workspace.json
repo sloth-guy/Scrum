@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "a3ef47a6951a73bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agile Manifesto.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sprint retrospective.md"
+                "file": "Agile Manifesto.md"
               }
             }
           },
@@ -106,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sprint retrospective.md",
+                "file": "Agile Manifesto.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sprint retrospective.md",
+                "file": "Agile Manifesto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sprint retrospective.md",
+                "file": "Agile Manifesto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,10 +221,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4cd22caef42b4cf",
+  "active": "a3ef47a6951a73bd",
   "lastOpenFiles": [
-    "sprint review.md",
     "sprint retrospective.md",
+    "Agile Manifesto.md",
+    "sprint review.md",
     "MOC - events.md",
     "MOC - Scrum Team.md",
     "product goal.md",
@@ -238,7 +253,6 @@
     "product owner.md",
     "pillars.md",
     "daily scrum.md",
-    "lean thinking.md",
     "Canvases",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 5.1/Fehler.md.2023-12-07_05.18.15.foldersync.old",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.2/Download und Installation von Python.md.2023-12-06_23.18.02.foldersync.old",
