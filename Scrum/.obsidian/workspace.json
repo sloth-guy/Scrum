@@ -4,37 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7e04c7748d9d9c99",
+        "id": "6003748f8a89e4d7",
         "type": "tabs",
         "children": [
           {
-            "id": "e4cd22caef42b4cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sprint retrospective.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a3ef47a6951a73bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lean thinking.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "09ab35dfde21017d",
+            "id": "b0f801a5d6035f24",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,11 +207,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09ab35dfde21017d",
+  "active": "b0f801a5d6035f24",
   "lastOpenFiles": [
+    "sprint retrospective.md",
+    "lean thinking.md",
     "Agile Manifesto.md",
     "Useful Links.md",
-    "lean thinking.md",
     "scrum master.md",
     "Scrum definition.md",
     "pillars.md",
@@ -246,7 +220,6 @@
     "pillars.png.png",
     "MOC - Artifacts.md",
     "MOC - product.md",
-    "sprint retrospective.md",
     "sprint review.md",
     "MOC - events.md",
     "MOC - Scrum Team.md",
