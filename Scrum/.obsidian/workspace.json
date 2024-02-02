@@ -32,9 +32,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "09ab35dfde21017d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Useful Links.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lean thinking.md"
+                "file": "Useful Links.md"
               }
             }
           },
@@ -120,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "lean thinking.md",
+                "file": "Useful Links.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lean thinking.md",
+                "file": "Useful Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lean thinking.md",
+                "file": "Useful Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,9 +234,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3ef47a6951a73bd",
+  "active": "09ab35dfde21017d",
   "lastOpenFiles": [
     "Agile Manifesto.md",
+    "Useful Links.md",
+    "lean thinking.md",
     "scrum master.md",
     "Scrum definition.md",
     "pillars.md",
@@ -252,8 +267,6 @@
     "MOC - artifacts.md",
     "sprint goal.md",
     "sprint backlog.md",
-    "Increment.md",
-    "product.md",
     "Canvases",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 5.1/Fehler.md.2023-12-07_05.18.15.foldersync.old",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.2/Download und Installation von Python.md.2023-12-06_23.18.02.foldersync.old",
