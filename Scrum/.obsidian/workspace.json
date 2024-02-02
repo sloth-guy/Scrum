@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC - Scrum Team.md",
+                "file": "sprint review.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -73,7 +73,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC - Scrum Team.md"
+                "file": "sprint review.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MOC - Scrum Team.md",
+                "file": "sprint review.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC - Scrum Team.md",
+                "file": "sprint review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOC - Scrum Team.md",
+                "file": "sprint review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,14 +209,14 @@
   },
   "active": "e4cd22caef42b4cf",
   "lastOpenFiles": [
+    "MOC - events.md",
+    "MOC - Scrum Team.md",
     "product goal.md",
     "product backlog.md",
     "MOC - product.md",
-    "MOC - Scrum Team.md",
     "MOC - Artifacts.md",
     "stakeholders.md",
     "cross-funktional.md",
-    "MOC - events.md",
     "Canvases/Events.canvas",
     "Canvases/Artifacts.canvas",
     "sprint planning.md",
