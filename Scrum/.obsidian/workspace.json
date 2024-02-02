@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "product goal.md",
+                "file": "MOC - Scrum Team.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -73,7 +73,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "product goal.md"
+                "file": "MOC - Scrum Team.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "product goal.md",
+                "file": "MOC - Scrum Team.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "product goal.md",
+                "file": "MOC - Scrum Team.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "product goal.md",
+                "file": "MOC - Scrum Team.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,6 +209,7 @@
   },
   "active": "e4cd22caef42b4cf",
   "lastOpenFiles": [
+    "product goal.md",
     "product backlog.md",
     "MOC - product.md",
     "MOC - Scrum Team.md",
@@ -231,7 +232,6 @@
     "sprint goal.md",
     "sprint backlog.md",
     "Increment.md",
-    "product goal.md",
     "product.md",
     "product owner.md",
     "pillars.md",
