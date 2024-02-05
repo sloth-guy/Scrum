@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "self-managing.md",
+                "file": "Useful Links.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -73,7 +73,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "self-managing.md"
+                "file": "Useful Links.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "self-managing.md",
+                "file": "Useful Links.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "self-managing.md",
+                "file": "Useful Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "self-managing.md",
+                "file": "Useful Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,6 +209,14 @@
   },
   "active": "b0f801a5d6035f24",
   "lastOpenFiles": [
+    "stakeholders.md",
+    "sprint review.md",
+    "sprint retrospective.md",
+    "sprint planning.md",
+    "sprint goal.md",
+    "sprint backlog.md",
+    "sprint.md",
+    "self-managing.md",
     "Scrum theory.md",
     "scrum master.md",
     "Scrum definition.md",
@@ -227,19 +235,11 @@
     "developers.md",
     "definition of done.md",
     "daily scrum.md",
-    "cross-funktional.md",
     "Canvases/Artifacts.canvas",
     "Canvases/Events.canvas",
-    "Useful Links.md",
-    "Agile Manifesto.md",
-    "sprint retrospective.md",
     "pillars.png.png",
-    "sprint review.md",
-    "stakeholders.md",
-    "sprint planning.md",
     "Pasted image 20240126091447.png",
     "Untitled.canvas",
-    "sprint.md",
     "Canvases",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 5.1/Fehler.md.2023-12-07_05.18.15.foldersync.old",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.2/Download und Installation von Python.md.2023-12-06_23.18.02.foldersync.old",
