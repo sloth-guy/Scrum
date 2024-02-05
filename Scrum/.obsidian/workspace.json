@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful Links.md",
+                "file": "product goal.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -73,7 +73,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful Links.md"
+                "file": "product goal.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Useful Links.md",
+                "file": "product goal.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful Links.md",
+                "file": "product goal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful Links.md",
+                "file": "product goal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,6 +209,7 @@
   },
   "active": "b0f801a5d6035f24",
   "lastOpenFiles": [
+    "Useful Links.md",
     "stakeholders.md",
     "sprint review.md",
     "sprint retrospective.md",
@@ -234,7 +235,6 @@
     "empiricism.md",
     "developers.md",
     "definition of done.md",
-    "daily scrum.md",
     "Canvases/Artifacts.canvas",
     "Canvases/Events.canvas",
     "pillars.png.png",
