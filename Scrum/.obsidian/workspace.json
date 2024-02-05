@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC - product.md",
+                "file": "product owner.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -73,7 +73,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC - product.md"
+                "file": "product owner.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MOC - product.md",
+                "file": "product owner.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC - product.md",
+                "file": "product owner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOC - product.md",
+                "file": "product owner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,6 +209,12 @@
   },
   "active": "b0f801a5d6035f24",
   "lastOpenFiles": [
+    "product goal.md",
+    "product backlog.md",
+    "product.md",
+    "pillars.md",
+    "MOC - Scrum Team.md",
+    "MOC - product.md",
     "MOC - events.md",
     "MOC - Artifacts.md",
     "lean thinking.md",
@@ -220,26 +226,20 @@
     "cross-funktional.md",
     "Canvases/Artifacts.canvas",
     "Canvases/Events.canvas",
-    "product goal.md",
     "product owner.md",
     "scrum master.md",
-    "MOC - Scrum Team.md",
     "Useful Links.md",
     "Agile Manifesto.md",
     "sprint retrospective.md",
     "Scrum definition.md",
-    "pillars.md",
     "pillars.png.png",
-    "MOC - product.md",
     "sprint review.md",
-    "product backlog.md",
     "stakeholders.md",
     "sprint planning.md",
     "Pasted image 20240126091447.png",
     "Untitled.canvas",
     "sprint.md",
     "scrum definition.md",
-    "MOC - scrum team.md",
     "Canvases",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 5.1/Fehler.md.2023-12-07_05.18.15.foldersync.old",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.2/Download und Installation von Python.md.2023-12-06_23.18.02.foldersync.old",
