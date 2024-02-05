@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Canvases/Artifacts.canvas",
+                "file": "Canvases/Events.canvas",
                 "viewState": {
-                  "x": -40,
-                  "y": -290,
-                  "zoom": 0
+                  "x": 89.5,
+                  "y": 11.5,
+                  "zoom": -0.8734806320666524
                 }
               }
             }
@@ -75,7 +75,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Canvases/Artifacts.canvas"
+                "file": "Canvases/Events.canvas"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Canvases/Artifacts.canvas",
+                "file": "Canvases/Events.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canvases/Artifacts.canvas",
+                "file": "Canvases/Events.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Canvases/Artifacts.canvas",
+                "file": "Canvases/Events.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,6 +211,7 @@
   },
   "active": "b0f801a5d6035f24",
   "lastOpenFiles": [
+    "Canvases/Artifacts.canvas",
     "developers.md",
     "product goal.md",
     "Useful Links.md",
@@ -236,8 +237,6 @@
     "lean thinking.md",
     "Increment.md",
     "empiricism.md",
-    "definition of done.md",
-    "Canvases/Artifacts.canvas",
     "Canvases/Events.canvas",
     "pillars.png.png",
     "Pasted image 20240126091447.png",
