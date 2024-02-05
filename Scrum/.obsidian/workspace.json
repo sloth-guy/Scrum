@@ -11,12 +11,14 @@
             "id": "b0f801a5d6035f24",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "product goal.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
+                "file": "Canvases/Events.canvas",
+                "viewState": {
+                  "x": 282.5,
+                  "y": 11.5,
+                  "zoom": -0.8734806320666524
+                }
               }
             }
           }
@@ -73,7 +75,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "product goal.md"
+                "file": "Canvases/Events.canvas"
               }
             }
           },
@@ -106,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "product goal.md",
+                "file": "Canvases/Events.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "product goal.md",
+                "file": "Canvases/Events.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "product goal.md",
+                "file": "Canvases/Events.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,6 +211,7 @@
   },
   "active": "b0f801a5d6035f24",
   "lastOpenFiles": [
+    "product goal.md",
     "developers.md",
     "product owner.md",
     "scrum master.md",
@@ -226,7 +229,6 @@
     "MOC - product.md",
     "sprint review.md",
     "MOC - events.md",
-    "product goal.md",
     "product backlog.md",
     "stakeholders.md",
     "Canvases/Events.canvas",
