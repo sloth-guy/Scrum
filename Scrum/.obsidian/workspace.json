@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful Links.md",
-                "mode": "preview",
+                "file": "MOC - Scrum Team.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful Links.md"
+                "file": "MOC - Scrum Team.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Useful Links.md",
+                "file": "MOC - Scrum Team.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful Links.md",
+                "file": "MOC - Scrum Team.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful Links.md",
+                "file": "MOC - Scrum Team.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,10 +209,11 @@
   },
   "active": "b0f801a5d6035f24",
   "lastOpenFiles": [
+    "cross-funktional.md",
+    "Useful Links.md",
+    "Agile Manifesto.md",
     "sprint retrospective.md",
     "lean thinking.md",
-    "Agile Manifesto.md",
-    "Useful Links.md",
     "scrum master.md",
     "Scrum definition.md",
     "pillars.md",
@@ -226,7 +227,6 @@
     "product goal.md",
     "product backlog.md",
     "stakeholders.md",
-    "cross-funktional.md",
     "Canvases/Events.canvas",
     "Canvases/Artifacts.canvas",
     "sprint planning.md",
