@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "developers.md",
+                "file": "product goal.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -73,7 +73,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "developers.md"
+                "file": "product goal.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "developers.md",
+                "file": "product goal.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "developers.md",
+                "file": "product goal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "developers.md",
+                "file": "product goal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,6 +209,7 @@
   },
   "active": "b0f801a5d6035f24",
   "lastOpenFiles": [
+    "developers.md",
     "product owner.md",
     "scrum master.md",
     "MOC - Scrum Team.md",
@@ -239,7 +240,6 @@
     "MOC-roles.md",
     "definition of done.md",
     "MOC - artifacts.md",
-    "sprint goal.md",
     "Canvases",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 5.1/Fehler.md.2023-12-07_05.18.15.foldersync.old",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.2/Download und Installation von Python.md.2023-12-06_23.18.02.foldersync.old",
