@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "developers.md",
+                "file": "MOC - product.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -73,7 +73,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "developers.md"
+                "file": "MOC - product.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "developers.md",
+                "file": "MOC - product.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "developers.md",
+                "file": "MOC - product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "developers.md",
+                "file": "MOC - product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,6 +209,10 @@
   },
   "active": "b0f801a5d6035f24",
   "lastOpenFiles": [
+    "MOC - events.md",
+    "MOC - Artifacts.md",
+    "lean thinking.md",
+    "Increment.md",
     "empiricism.md",
     "developers.md",
     "definition of done.md",
@@ -223,14 +227,11 @@
     "Useful Links.md",
     "Agile Manifesto.md",
     "sprint retrospective.md",
-    "lean thinking.md",
     "Scrum definition.md",
     "pillars.md",
     "pillars.png.png",
-    "MOC - Artifacts.md",
     "MOC - product.md",
     "sprint review.md",
-    "MOC - events.md",
     "product backlog.md",
     "stakeholders.md",
     "sprint planning.md",
@@ -239,7 +240,6 @@
     "sprint.md",
     "scrum definition.md",
     "MOC - scrum team.md",
-    "MOC-roles.md",
     "Canvases",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 5.1/Fehler.md.2023-12-07_05.18.15.foldersync.old",
     "Notizen/Einführung in die Programmierung mit Python/Kapitel 1.2/Download und Installation von Python.md.2023-12-06_23.18.02.foldersync.old",
