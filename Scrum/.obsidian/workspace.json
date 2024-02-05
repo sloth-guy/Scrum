@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC - Scrum Team.md",
+                "file": "scrum master.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -73,7 +73,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC - Scrum Team.md"
+                "file": "scrum master.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MOC - Scrum Team.md",
+                "file": "scrum master.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC - Scrum Team.md",
+                "file": "scrum master.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOC - Scrum Team.md",
+                "file": "scrum master.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,6 +209,7 @@
   },
   "active": "b0f801a5d6035f24",
   "lastOpenFiles": [
+    "MOC - Scrum Team.md",
     "cross-funktional.md",
     "Useful Links.md",
     "Agile Manifesto.md",
@@ -223,7 +224,6 @@
     "MOC - product.md",
     "sprint review.md",
     "MOC - events.md",
-    "MOC - Scrum Team.md",
     "product goal.md",
     "product backlog.md",
     "stakeholders.md",
