@@ -11,9 +11,12 @@
             "id": "b0f801a5d6035f24",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "pillars.png.png"
+                "file": "MOC - Scrum Team.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -70,7 +73,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pillars.png.png"
+                "file": "MOC - Scrum Team.md"
               }
             }
           },
@@ -80,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "empirical",
+                "query": "values",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pillars.png.png",
+                "file": "MOC - Scrum Team.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -153,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pillars.png.png",
+                "file": "MOC - Scrum Team.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pillars.png.png",
+                "file": "MOC - Scrum Team.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,6 +209,8 @@
   },
   "active": "b0f801a5d6035f24",
   "lastOpenFiles": [
+    "MOC - Artifacts.md",
+    "pillars.png.png",
     "Canvases/Events.canvas",
     "Canvases/Artifacts.canvas",
     "developers.md",
@@ -229,11 +234,9 @@
     "MOC - Scrum Team.md",
     "MOC - product.md",
     "MOC - events.md",
-    "MOC - Artifacts.md",
     "lean thinking.md",
     "Increment.md",
     "empiricism.md",
-    "pillars.png.png",
     "Pasted image 20240126091447.png",
     "Untitled.canvas",
     "Canvases",
