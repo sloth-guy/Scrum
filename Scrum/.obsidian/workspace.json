@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC - Scrum Team.md",
+                "file": "daily scrum.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
+          },
+          {
+            "id": "093d0d50b8d9a1cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "product backlog.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC - Scrum Team.md"
+                "file": "product backlog.md"
               }
             }
           },
@@ -83,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "values",
+                "query": "sprint back",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MOC - Scrum Team.md",
+                "file": "product backlog.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC - Scrum Team.md",
+                "file": "product backlog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOC - Scrum Team.md",
+                "file": "product backlog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,13 +221,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0f801a5d6035f24",
+  "active": "093d0d50b8d9a1cb",
   "lastOpenFiles": [
+    "MOC - product.md",
+    "developers.md",
+    "sprint backlog.md",
     "MOC - Artifacts.md",
+    "MOC - events.md",
+    "daily scrum.md",
+    "MOC - Scrum Team.md",
     "pillars.png.png",
     "Canvases/Events.canvas",
     "Canvases/Artifacts.canvas",
-    "developers.md",
     "product goal.md",
     "Useful Links.md",
     "stakeholders.md",
@@ -221,7 +240,6 @@
     "sprint retrospective.md",
     "sprint planning.md",
     "sprint goal.md",
-    "sprint backlog.md",
     "sprint.md",
     "self-managing.md",
     "Scrum theory.md",
@@ -231,9 +249,6 @@
     "product backlog.md",
     "product.md",
     "pillars.md",
-    "MOC - Scrum Team.md",
-    "MOC - product.md",
-    "MOC - events.md",
     "lean thinking.md",
     "Increment.md",
     "empiricism.md",
