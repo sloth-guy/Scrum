@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "product backlog.md",
+                "file": "scrum master.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "product backlog.md"
+                "file": "scrum master.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "product backlog.md",
+                "file": "scrum master.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "product backlog.md",
+                "file": "scrum master.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "product backlog.md",
+                "file": "scrum master.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,13 +223,15 @@
   },
   "active": "093d0d50b8d9a1cb",
   "lastOpenFiles": [
+    "MOC - Scrum Team.md",
+    "definition of done.md",
+    "product backlog.md",
     "MOC - product.md",
     "developers.md",
     "sprint backlog.md",
     "MOC - Artifacts.md",
     "MOC - events.md",
     "daily scrum.md",
-    "MOC - Scrum Team.md",
     "pillars.png.png",
     "Canvases/Events.canvas",
     "Canvases/Artifacts.canvas",
@@ -246,12 +248,10 @@
     "scrum master.md",
     "Scrum definition.md",
     "product owner.md",
-    "product backlog.md",
     "product.md",
     "pillars.md",
     "lean thinking.md",
     "Increment.md",
-    "empiricism.md",
     "Pasted image 20240126091447.png",
     "Untitled.canvas",
     "Canvases",
