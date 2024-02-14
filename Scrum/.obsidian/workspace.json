@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "product owner.md",
+                "file": "sprint backlog.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "product owner.md"
+                "file": "sprint backlog.md"
               }
             }
           },
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "removing",
+                "query": "sprint back",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "product owner.md",
+                "file": "sprint backlog.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "product owner.md",
+                "file": "sprint backlog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "product owner.md",
+                "file": "sprint backlog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,8 +221,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75e436d74eae028f",
+  "active": "093d0d50b8d9a1cb",
   "lastOpenFiles": [
+    "sprint.md",
+    "product owner.md",
     "MOC - Scrum Team.md",
     "scrum master.md",
     "definition of done.md",
@@ -243,11 +245,9 @@
     "sprint retrospective.md",
     "sprint planning.md",
     "sprint goal.md",
-    "sprint.md",
     "self-managing.md",
     "Scrum theory.md",
     "Scrum definition.md",
-    "product owner.md",
     "product.md",
     "pillars.md",
     "lean thinking.md",
